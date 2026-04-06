@@ -1,0 +1,26 @@
+site_name: OneHealth EU - Health Education Research
+site_url: https://krzyworzeka-svg.github.io/EU-Health-Ed-Repository/
+theme:
+  name: material
+  palette:
+    primary: teal
+    accent: indigo
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - search.suggest
+    - search.highlight
+
+nav:
+  - Home: index.md
+  - Expert Reviews:
+    - Spain: reviews/ES.md
+    - Poland: reviews/PL.md
+  - Document Registry: registry.md
+  - Data Analysis: dashboard.md
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - tables

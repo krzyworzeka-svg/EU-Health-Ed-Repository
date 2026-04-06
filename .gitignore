@@ -5,5 +5,12 @@
 !data/
 !data/**
 
+# Do not ignore documentation and app files
+!mkdocs.yml
+!docs/
+!docs/**
+!streamlit_app.py
+!requirements.txt
+
 # Do not ignore .gitignore itself
 !.gitignore
