@@ -1,0 +1,60 @@
+# Level I: Country Identity
+country: "Portugal"
+iso_code: "PT"
+bioregion: "Atlantic/Mediterranean"
+
+# Level I: System Overview
+education_system:
+  framework: "Decree-Law 55/2018 & Citizenship Education (ENEC)"
+  model: "Cross-curricular / Citizenship Domains"
+  primary_focus: "Health, Environment, and Sustainability as citizenship goals"
+
+# Level I: Document Registry (The Data Map)
+documents:
+  - id: "PT_DOC_001"
+    original_name: "0007200126.pdf"
+    standardized_name: "PT_2018_Law_General.pdf"
+    transcript_name: "PT_2018_Law_General_RAW.md"
+    level: "General Framework"
+    tags: ["Policy", "Curriculum Autonomy"]
+    oh_ph_indicators: []
+
+  - id: "PT_DOC_002"
+    original_name: "referencial_educacao_saude_vf_junho2017.pdf"
+    standardized_name: "PT_2017_Guide_Health.pdf"
+    transcript_name: "PT_2017_Guide_Health_RAW.md"
+    level: "All Levels"
+    tags: ["Health Education", "Guidelines"]
+    oh_ph_indicators: []
+
+  - id: "PT_DOC_003"
+    original_name: "referencial_ambiente.pdf"
+    standardized_name: "PT_2018_Guide_Environment.pdf"
+    transcript_name: "PT_2018_Guide_Environment_RAW.md"
+    level: "All Levels"
+    tags: ["Environmental Education", "Sustainability"]
+    oh_ph_indicators: []
+
+  - id: "PT_DOC_004"
+    original_name: "perfil_dos_alunos.pdf"
+    standardized_name: "PT_2017_Profile_Students.pdf"
+    transcript_name: "PT_2017_Profile_Students_RAW.md"
+    level: "Mandatory Schooling"
+    tags: ["Competence Profile"]
+    oh_ph_indicators: []
+
+  - id: "PT_DOC_005"
+    original_name: "cidadania-desenvolvimento.pdf"
+    standardized_name: "PT_2017_Strategy_Citizenship.pdf"
+    transcript_name: "PT_2017_Strategy_Citizenship_RAW.md"
+    level: "Citizenship"
+    tags: ["Citizenship", "Strategy"]
+    oh_ph_indicators: []
+
+  - id: "PT_DOC_006"
+    original_name: "enec_2025.pdf"
+    standardized_name: "PT_2025_Strategy_Citizenship_B.pdf"
+    transcript_name: "PT_2025_Strategy_Citizenship_B_RAW.md"
+    level: "Strategy 2025"
+    tags: ["Future Framework"]
+    oh_ph_indicators: []
