@@ -14,6 +14,7 @@ documents:
   - id: "ES_DOC_001"
     original_name: "BOE-A-2020-17264-consolidado.pdf"
     standardized_name: "ES_2020_Law_LOMLOE.pdf"
+    transcript_name: "ES_2020_Law_General_RAW.md"
     level: "General Framework"
     tags: ["Policy", "Reform"]
     oh_ph_indicators:
@@ -24,6 +25,7 @@ documents:
   - id: "ES_DOC_002"
     original_name: "RD_315_nutrition.pdf"
     standardized_name: "ES_2025_Decree_Nutrition.pdf"
+    transcript_name: null
     level: "All Levels"
     effective_date: "2026-04-06"
     oh_ph_indicators:
@@ -33,6 +35,7 @@ documents:
   - id: "ES_DOC_003"
     original_name: "BOE-A-2022-4975-consolidado.pdf"
     standardized_name: "ES_2022_Decree_Secondary.pdf"
+    transcript_name: "ES_2022_Decree_Secondary_RAW.md"
     level: "ESO (ISCED 2)"
     oh_ph_indicators:
       - "Urban heat islands"
@@ -41,6 +44,7 @@ documents:
   - id: "ES_DOC_004"
     original_name: "guia_EscuelasPromotorasdeSalud.pdf"
     standardized_name: "ES_2023_Guide_General.pdf"
+    transcript_name: "ES_2023_Guide_General_RAW.md"
     level: "All Levels (HPS Network)"
     oh_ph_indicators:
       - "Whole-school health promotion"

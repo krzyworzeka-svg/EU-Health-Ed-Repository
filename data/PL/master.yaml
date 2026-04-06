@@ -14,6 +14,7 @@ documents:
   - id: "PL_DOC_001"
     original_name: "Rozporządzenie_ME (1).pdf"
     standardized_name: "PL_2025_Law_Secondary_EZ.pdf"
+    transcript_name: "PL_2025_Law_Secondary_RAW.md"
     level: "Secondary (Liceum, Technikum)"
     tags: ["Policy", "Reform", "Core Curriculum"]
     oh_ph_indicators:
@@ -24,6 +25,7 @@ documents:
   - id: "PL_DOC_002"
     original_name: "Rozporządzenie_ME2 (1).pdf"
     standardized_name: "PL_2025_Law_Primary_EZ.pdf"
+    transcript_name: "PL_2025_Law_Primary_RAW.md"
     level: "Primary (Szkoła Podstawowa)"
     tags: ["Policy", "Reform", "Core Curriculum"]
     oh_ph_indicators:
@@ -33,6 +35,7 @@ documents:
   - id: "PL_DOC_003"
     original_name: "program-nauczania-edukacji-zdrowotnej-dla-branzowej-szkoly-i-stopnia-liceum-ogolnoksztalcacego-i-technikum-1.pdf"
     standardized_name: "PL_2025_Syllabus_Secondary_EZ.pdf"
+    transcript_name: "PL_2025_Syllabus_Secondary_RAW.md"
     level: "Secondary (ISCED 3)"
     oh_ph_indicators:
       - "Climate change impact on health"
@@ -41,6 +44,7 @@ documents:
   - id: "PL_DOC_004"
     original_name: "informator-edukacja-zdrowotna.pdf"
     standardized_name: "PL_2025_Guide_General.pdf"
+    transcript_name: "PL_2025_Guide_General_RAW.md"
     level: "General Framework"
     oh_ph_indicators:
       - "Definition of One Health in Polish educational context"
