@@ -13,4 +13,4 @@ Welcome to the public research portal for the **OneHealth EU** project. This ini
 - [Data Analysis](dashboard.md): Interactive visualization of OH/PH concepts in current curricula.
 
 ---
-*Maintained by the OneHealth EU Research Team.*
+*Maintained by [Working Group 1 - EU BEACON One Health education](https://www.cost.eu/actions/CA24106/) EU COST action.*
