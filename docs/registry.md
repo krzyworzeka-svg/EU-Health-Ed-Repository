@@ -7,24 +7,24 @@ This registry provides direct access to both the **normalization metadata** and 
 ## 🇪🇸 Spain (ES)
 **Bioregion:** Mediterranean | **System:** LOMLOE 2020 (Decentralized)
 
-| Document Type | Official Title (Source) | OH/PH Themes & Indicators | Download (PDF) | Registry (YAML) |
-| :--- | :--- | :--- | :--- | :---: |
-| **Law** | LOMLOE 3/2020 (General Framework) | Env. education, Climate change, Integral wellbeing | [Download](https://github.com/krzyworzeka-svg/EU-Health-Ed-Repository/raw/main/data/ES/sources/ES_2020_Law_General.pdf) | [View](https://raw.githubusercontent.com/krzyworzeka-svg/EU-Health-Ed-Repository/main/data/ES/master.yaml) |
-| **Decree** | RD 217/2022 (Secondary Education) | Urban heat islands, Climate adaptation | [Download](https://github.com/krzyworzeka-svg/EU-Health-Ed-Repository/raw/main/data/ES/sources/ES_2022_Decree_Secondary.pdf) | [View](https://raw.githubusercontent.com/krzyworzeka-svg/EU-Health-Ed-Repository/main/data/ES/master.yaml) |
-| **Decree** | RD 315/2025 (Nutrition & Sustainability) | Sustainable food systems, Env. impact of diet | [Download](https://github.com/krzyworzeka-svg/EU-Health-Ed-Repository/raw/main/data/ES/sources/ES_2025_Decree_Nutrition.pdf) | [View](https://raw.githubusercontent.com/krzyworzeka-svg/EU-Health-Ed-Repository/main/data/ES/master.yaml) |
-| **Guide** | Guía Escuelas Promotoras de Salud | Whole-school health, Sustainable environments | [Download](https://github.com/krzyworzeka-svg/EU-Health-Ed-Repository/raw/main/data/ES/sources/ES_2023_Guide_General.pdf) | [View](https://raw.githubusercontent.com/krzyworzeka-svg/EU-Health-Ed-Repository/main/data/ES/master.yaml) |
+| Document Type | Official Title (Source) | Level | OH/PH Themes & Indicators | Download (PDF) | Registry (YAML) |
+| :--- | :--- | :--- | :--- | :--- | :---: |
+| **Law** | LOMLOE 3/2020 | General Framework | Human-animal interface, Empathy for living beings | [Download](https://github.com/krzyworzeka-svg/EU-Health-Ed-Repository/raw/main/data/ES/sources/ES_2020_Law_General.pdf) | [View](https://raw.githubusercontent.com/krzyworzeka-svg/EU-Health-Ed-Repository/main/data/ES/master.yaml) |
+| **Decree** | RD 217/2022 | ESO (ISCED 2) | Eco-social health, Biodiversity, Socioecological systems | [Download](https://github.com/krzyworzeka-svg/EU-Health-Ed-Repository/raw/main/data/ES/sources/ES_2022_Decree_Secondary.pdf) | [View](https://raw.githubusercontent.com/krzyworzeka-svg/EU-Health-Ed-Repository/main/data/ES/master.yaml) |
+| **Decree** | RD 315/2025 | All Levels | Sustainable food systems, Environmental impact of diet | [Download](https://github.com/krzyworzeka-svg/EU-Health-Ed-Repository/raw/main/data/ES/sources/ES_2025_Decree_Nutrition.pdf) | [View](https://raw.githubusercontent.com/krzyworzeka-svg/EU-Health-Ed-Repository/main/data/ES/master.yaml) |
+| **Guide** | Guía Escuelas Promotoras | All Levels (HPS) | Whole-school health, Sustainable environments | [Download](https://github.com/krzyworzeka-svg/EU-Health-Ed-Repository/raw/main/data/ES/sources/ES_2023_Guide_General.pdf) | [View](https://raw.githubusercontent.com/krzyworzeka-svg/EU-Health-Ed-Repository/main/data/ES/master.yaml) |
 
 ---
 
 ## 🇵🇱 Poland (PL)
 **Bioregion:** Central European | **System:** Edukacja Zdrowotna 2025 (Standalone)
 
-| Document Type | Official Title (Source) | OH/PH Themes & Indicators | Download (PDF) | Registry (YAML) |
-| :--- | :--- | :--- | :--- | :---: |
-| **Law** | Dz.U. 2025 poz. 382 (Liceum/Technikum) | One Health/Planetary Health, Antibiotic resistance | [Download](https://github.com/krzyworzeka-svg/EU-Health-Ed-Repository/raw/main/data/PL/sources/PL_2025_Law_Secondary_EZ.pdf) | [View](https://raw.githubusercontent.com/krzyworzeka-svg/EU-Health-Ed-Repository/main/data/PL/master.yaml) |
-| **Law** | Dz.U. 2025 poz. 378 (Szkoła Podstawowa) | Environmental health, Basic hygiene | [Download](https://github.com/krzyworzeka-svg/EU-Health-Ed-Repository/raw/main/data/PL/sources/PL_2025_Law_Primary_EZ.pdf) | [View](https://raw.githubusercontent.com/krzyworzeka-svg/EU-Health-Ed-Repository/main/data/PL/master.yaml) |
-| **Syllabus** | Program Nauczania (ORE 2025) | Climate change, Sustainable diets | [Download](https://github.com/krzyworzeka-svg/EU-Health-Ed-Repository/raw/main/data/PL/sources/PL_2025_Syllabus_Secondary_EZ.pdf) | [View](https://raw.githubusercontent.com/krzyworzeka-svg/EU-Health-Ed-Repository/main/data/PL/master.yaml) |
-| **Guide** | Informator: Edukacja Zdrowotna (ORE) | Definition of One Health in Polish context | [Download](https://github.com/krzyworzeka-svg/EU-Health-Ed-Repository/raw/main/data/PL/sources/PL_2025_Guide_General.pdf) | [View](https://raw.githubusercontent.com/krzyworzeka-svg/EU-Health-Ed-Repository/main/data/PL/master.yaml) |
+| Document Type | Official Title (Source) | Level | OH/PH Themes & Indicators | Download (PDF) | Registry (YAML) |
+| :--- | :--- | :--- | :--- | :--- | :---: |
+| **Law** | Dz.U. 2025 poz. 382 | Secondary | Zoonoses, AMR, Climate-health links, Eco-determinants | [Download](https://github.com/krzyworzeka-svg/EU-Health-Ed-Repository/raw/main/data/PL/sources/PL_2025_Law_Secondary_EZ.pdf) | [View](https://raw.githubusercontent.com/krzyworzeka-svg/EU-Health-Ed-Repository/main/data/PL/master.yaml) |
+| **Law** | Dz.U. 2025 poz. 378 | Primary | Planetary diets, Ecosystem health, Global sustainability | [Download](https://github.com/krzyworzeka-svg/EU-Health-Ed-Repository/raw/main/data/PL/sources/PL_2025_Law_Primary_EZ.pdf) | [View](https://raw.githubusercontent.com/krzyworzeka-svg/EU-Health-Ed-Repository/main/data/PL/master.yaml) |
+| **Syllabus** | Program Nauczania (ORE) | Secondary | Microplastics, Pollution, Hidden environmental threats | [Download](https://github.com/krzyworzeka-svg/EU-Health-Ed-Repository/raw/main/data/PL/sources/PL_2025_Syllabus_Secondary_EZ.pdf) | [View](https://raw.githubusercontent.com/krzyworzeka-svg/EU-Health-Ed-Repository/main/data/PL/master.yaml) |
+| **Guide** | Informator: Edukacja... | Gen. Framework | Definition of One Health in Polish context | [Download](https://github.com/krzyworzeka-svg/EU-Health-Ed-Repository/raw/main/data/PL/sources/PL_2025_Guide_General.pdf) | [View](https://raw.githubusercontent.com/krzyworzeka-svg/EU-Health-Ed-Repository/main/data/PL/master.yaml) |
 
 ---
 ### Usage Note
