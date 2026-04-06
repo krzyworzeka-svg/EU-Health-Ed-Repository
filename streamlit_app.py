@@ -12,6 +12,10 @@ st.markdown("---")
 # Data Loader
 @st.cache_data
 def load_data():
+    import re
+    def normalize(text):
+        return re.sub(r'\s+', '', text.lower())
+
     files = glob.glob("data/*/analysis.jsonl")
     all_data = []
     for f in files:
@@ -27,22 +31,27 @@ def load_data():
                     base_url = f"https://github.com/krzyworzeka-svg/EU-Health-Ed-Repository/blob/main/data/{country_code}/transcripts/{doc_name}"
                     local_path = f"data/{country_code}/transcripts/{doc_name}"
                     
-                    # Discover line number for deep link
+                    # Discover line number for deep link robustly
                     line_num = None
-                    snippet = record.get('raw_text', '')[:40]  # first 40 chars configures robust search
+                    raw_text = record.get('raw_text', '')
                     
-                    if snippet and os.path.exists(local_path):
+                    if raw_text and os.path.exists(local_path):
+                        target = normalize(raw_text)[:40] # first 40 non-whitespace chars
                         try:
                             with open(local_path, 'r', encoding='utf-8') as transcript:
-                                for i, t_line in enumerate(transcript, 1):
-                                    if snippet in t_line:
-                                        line_num = i
+                                lines = transcript.readlines()
+                                for i in range(len(lines)):
+                                    combined = lines[i]
+                                    if i + 1 < len(lines):
+                                        combined += lines[i+1]
+                                    
+                                    if target in normalize(combined):
+                                        line_num = i + 1
                                         break
                         except Exception:
                             pass
                     
                     if line_num:
-                        # Append ?plain=1#L format to tell GitHub to jump to the text line
                         record['source_link'] = f"{base_url}?plain=1#L{line_num}"
                     else:
                         record['source_link'] = base_url
