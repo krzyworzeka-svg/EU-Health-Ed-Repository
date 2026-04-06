@@ -20,7 +20,7 @@ def load_data():
     all_data = []
     for f in files:
         country_code = os.path.basename(os.path.dirname(f))
-        with open(f, 'r', encoding='utf-8') as file:
+        with open(f, 'r', encoding='utf-8-sig') as file:
             for line in file:
                 record = json.loads(line)
                 record['country'] = country_code
