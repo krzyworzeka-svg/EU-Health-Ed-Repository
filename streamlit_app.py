@@ -10,6 +10,7 @@ st.title("🇪🇺 OneHealth & Planetary Health: EU Analysis Dashboard")
 st.markdown("---")
 
 # Data Loader
+@st.cache_data
 def load_data():
     files = glob.glob("data/*/analysis.jsonl")
     all_data = []
@@ -20,10 +21,31 @@ def load_data():
                 record = json.loads(line)
                 record['country'] = country_code
                 
-                # Construct GitHub URL for the source transcript
+                # Construct base GitHub URL
                 doc_name = record.get('source_document', '')
                 if doc_name:
-                    record['source_link'] = f"https://github.com/krzyworzeka-svg/EU-Health-Ed-Repository/blob/main/data/{country_code}/transcripts/{doc_name}"
+                    base_url = f"https://github.com/krzyworzeka-svg/EU-Health-Ed-Repository/blob/main/data/{country_code}/transcripts/{doc_name}"
+                    local_path = f"data/{country_code}/transcripts/{doc_name}"
+                    
+                    # Discover line number for deep link
+                    line_num = None
+                    snippet = record.get('raw_text', '')[:40]  # first 40 chars configures robust search
+                    
+                    if snippet and os.path.exists(local_path):
+                        try:
+                            with open(local_path, 'r', encoding='utf-8') as transcript:
+                                for i, t_line in enumerate(transcript, 1):
+                                    if snippet in t_line:
+                                        line_num = i
+                                        break
+                        except Exception:
+                            pass
+                    
+                    if line_num:
+                        # Append ?plain=1#L format to tell GitHub to jump to the text line
+                        record['source_link'] = f"{base_url}?plain=1#L{line_num}"
+                    else:
+                        record['source_link'] = base_url
                 else:
                     record['source_link'] = None
                 
