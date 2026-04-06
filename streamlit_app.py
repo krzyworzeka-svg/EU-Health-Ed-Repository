@@ -19,6 +19,14 @@ def load_data():
             for line in file:
                 record = json.loads(line)
                 record['country'] = country_code
+                
+                # Construct GitHub URL for the source transcript
+                doc_name = record.get('source_document', '')
+                if doc_name:
+                    record['source_link'] = f"https://github.com/krzyworzeka-svg/EU-Health-Ed-Repository/blob/main/data/{country_code}/transcripts/{doc_name}"
+                else:
+                    record['source_link'] = None
+                
                 all_data.append(record)
     return pd.DataFrame(all_data)
 
@@ -46,7 +54,23 @@ with col3:
 
 # Data Table
 st.subheader("Extracted Snippets (OH/PH)")
-st.dataframe(filtered_df[['country', 'topic', 'raw_text', 'translation_en', 'concept', 'type']], use_container_width=True)
+
+# Configure columns to display the GitHub link clearly
+if not filtered_df.empty and 'source_link' in filtered_df.columns:
+    display_cols = ['country', 'topic', 'raw_text', 'translation_en', 'concept', 'type', 'source_link']
+    st.dataframe(
+        filtered_df[display_cols],
+        use_container_width=True,
+        column_config={
+            "source_link": st.column_config.LinkColumn(
+                "Source Document",
+                help="Click to view the raw transcript on GitHub",
+                display_text="View Transcript 🔗"
+            )
+        }
+    )
+else:
+    st.dataframe(filtered_df[['country', 'topic', 'raw_text', 'translation_en', 'concept', 'type']], use_container_width=True)
 
 # Concept Chart
 st.subheader("Distribution by Concept")
