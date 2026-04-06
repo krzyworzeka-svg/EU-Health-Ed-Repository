@@ -1,0 +1,46 @@
+# Level I: Country Identity
+country: "Poland"
+iso_code: "PL"
+bioregion: "Central European"
+
+# Level I: System Overview
+education_system:
+  framework: "Rozporządzenie Ministra Edukacji (Dz.U. 2025 poz. 382)"
+  model: "Standalone Subject (from 2025)"
+  primary_focus: "Holistic health (physical, mental, social, environmental, digital)"
+
+# Level I: Document Registry (The Data Map)
+documents:
+  - id: "PL_DOC_001"
+    original_name: "Rozporządzenie_ME (1).pdf"
+    standardized_name: "PL_2025_Law_Secondary_EZ.pdf"
+    level: "Secondary (Liceum, Technikum)"
+    tags: ["Policy", "Reform", "Core Curriculum"]
+    oh_ph_indicators:
+      - "One Health / Planetary Health (Dział VIII)"
+      - "Antibiotic resistance (Dział II)"
+      - "Infectious disease prevention"
+
+  - id: "PL_DOC_002"
+    original_name: "Rozporządzenie_ME2 (1).pdf"
+    standardized_name: "PL_2025_Law_Primary_EZ.pdf"
+    level: "Primary (Szkoła Podstawowa)"
+    tags: ["Policy", "Reform", "Core Curriculum"]
+    oh_ph_indicators:
+      - "Environmental health"
+      - "Basic hygiene and infectious diseases"
+
+  - id: "PL_DOC_003"
+    original_name: "program-nauczania-edukacji-zdrowotnej-dla-branzowej-szkoly-i-stopnia-liceum-ogolnoksztalcacego-i-technikum-1.pdf"
+    standardized_name: "PL_2025_Syllabus_Secondary_EZ.pdf"
+    level: "Secondary (ISCED 3)"
+    oh_ph_indicators:
+      - "Climate change impact on health"
+      - "Sustainable dietary choices"
+
+  - id: "PL_DOC_004"
+    original_name: "informator-edukacja-zdrowotna.pdf"
+    standardized_name: "PL_2025_Guide_General.pdf"
+    level: "General Framework"
+    oh_ph_indicators:
+      - "Definition of One Health in Polish educational context"

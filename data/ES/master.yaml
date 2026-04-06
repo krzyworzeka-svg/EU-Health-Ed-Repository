@@ -1,0 +1,48 @@
+# Level I: Country Identity
+country: "Spain"
+iso_code: "ES"
+bioregion: "Mediterranean"
+
+# Level I: System Overview
+education_system:
+  framework: "LOMLOE 3/2020"
+  model: "Cross-curricular / Integrated"
+  primary_focus: "Emotional wellbeing and sustainability"
+
+# Level I: Document Registry (The Data Map)
+documents:
+  - id: "ES_DOC_001"
+    original_name: "BOE-A-2020-17264-consolidado.pdf"
+    standardized_name: "ES_2020_Law_LOMLOE.pdf"
+    level: "General Framework"
+    tags: ["Policy", "Reform"]
+    oh_ph_indicators:
+      - "Environmental education"
+      - "Climate change awareness"
+      - "Integral wellbeing (physical, affective, emotional)"
+
+  - id: "ES_DOC_002"
+    original_name: "RD_315_nutrition.pdf"
+    standardized_name: "ES_2025_Decree_Nutrition.pdf"
+    level: "All Levels"
+    effective_date: "2026-04-06"
+    oh_ph_indicators:
+      - "Sustainable food systems"
+      - "Environmental impact of diet"
+
+  - id: "ES_DOC_003"
+    original_name: "BOE-A-2022-4975-consolidado.pdf"
+    standardized_name: "ES_2022_Decree_Secondary.pdf"
+    level: "ESO (ISCED 2)"
+    oh_ph_indicators:
+      - "Urban heat islands"
+      - "Climate adaptation"
+
+  - id: "ES_DOC_004"
+    original_name: "guia_EscuelasPromotorasdeSalud.pdf"
+    standardized_name: "ES_2023_Guide_General.pdf"
+    level: "All Levels (HPS Network)"
+    oh_ph_indicators:
+      - "Whole-school health promotion"
+      - "Sustainable school environments"
+      - "Community-health-environment linkage"

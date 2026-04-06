@@ -1,0 +1,9 @@
+# Ignore everything
+*
+
+# But do not ignore the data folder
+!data/
+!data/**
+
+# Do not ignore .gitignore itself
+!.gitignore
