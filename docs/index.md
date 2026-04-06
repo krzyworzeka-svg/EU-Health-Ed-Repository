@@ -9,7 +9,7 @@ Welcome to the public research portal for the **OneHealth EU** project. This ini
 
 ## Key Resources
 - [Expert Reviews](reviews/ES.md): Validation from local public health and education experts.
-- [Document Registry](registry.md): Direct access to standardized national documents.
+- [Document Registry & Archive](registry.md): Direct access to standardized national documents and **original PDF sources**.
 - [Data Analysis](dashboard.md): Interactive visualization of OH/PH concepts in current curricula.
 
 ---
