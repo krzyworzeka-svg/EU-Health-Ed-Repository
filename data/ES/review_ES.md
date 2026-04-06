@@ -29,29 +29,29 @@ The following documents have been identified for the Spanish health education re
 
 ## Section 2: Thematic Analysis Deep Dive (OH/PH)
 
-This section maps specific curricular content to **One Health (OH)** and **Planetary Health (PH)** concepts.
+This section maps specific newly extracted curricular content to **One Health (OH)** and **Planetary Health (PH)** concepts, categorized by the depth of integration (Direct, Indirect, Scientific).
 
-### Theme: AMR / Zoonoses / Emerging Diseases
+### 2.1 Direct & Core Terminology
 
-| ID | Raw Text (Spanish) | Translation (English) | AI Interpretation | Type |
-| :--- | :--- | :--- | :--- | :--- |
-| **ES_003** | `Microbiología: bacterias, virus, hongos; infecciones; resistencias antibióticas` | Microbiology: bacteria, viruses, fungi; infections; antibiotic resistance | Direct addressing of Antimicrobial Resistance as a scientific and health challenge. | **Explicit (OH)** |
-| **ES_004** | `Evolución y salud: enfermedades emergentes, pandemias` | Evolution and health: emerging diseases, pandemics | Linkage between evolutionary biology and global health threats, implying zoonotic origins. | **Implicit (OH)** |
+| ID | Term Found | Raw Text (Spanish) | Translation (English) | Concept | Type |
+| :--- | :--- | :--- | :--- | :---: | :---: |
+| **ES_EDU_001** | One Health | `La relación entre la salud medioambiental, humana y de otros seres vivos: one health (una sola salud).` | The relationship between environmental, human, and other living beings' health: one health (a single health). | **OH** | Explicit |
+| **ES_EDU_002** | Eco-social health | `Comprende las relaciones sistémicas de interdependencia, ecodependencia... y adopta... un estilo de vida sostenible y ecosocialmente responsable.` | Understands the systemic relationships of interdependence, ecodependence... and adopts... a sustainable and ecosocially responsible lifestyle. | **PH** | Explicit |
 
-### Theme: Climate Change / Heat Adaptation
+### 2.2 Indirect & Conceptual Determinants
 
-| ID | Raw Text (Spanish) | Translation (English) | AI Interpretation | Type |
-| :--- | :--- | :--- | :--- | :--- |
-| **ES_002** | `Cambio climático como problema de salud global (One Health)` | Climate change as a global health problem (One Health) | Direct linkage between climate stability and human health through the OH framework. | **Explicit (OH)** |
-| **ES_005** | `Ecología y salud ambiental: contaminación, cambio climático, One Health (conexión salud humana–ecosistemas)` | Ecology and environmental health: pollution, climate change, One Health (human health-ecosystems connection) | Integration of ecosystem health as a prerequisite for human health. | **Explicit (OH)** |
-| **ES_006** | `Relación salud humana – medio ambiente – desarrollo sostenible` | Relationship between human health – environment – sustainable development | Broader PH context connecting sustainable development with health outcomes. | **Implicit (PH)** |
+| ID | Theme | Raw Text (Spanish) | Translation (English) | Concept | Type |
+| :--- | :--- | :--- | :--- | :---: | :---: |
+| **ES_EDU_003** | Interface | `Valorar críticamente los hábitos sociales... el cuidado, la empatía y el respeto hacia los seres vivos... y el medio ambiente...` | Critically value social habits... care, empathy, and respect towards living beings... and the environment... | **OH** | Implicit |
+| **ES_EDU_004** | Climate & Health | `Las causas del cambio climático y sus consecuencias sobre los ecosistemas.` | The causes of climate change and its consequences on ecosystems. | **PH** | Implicit |
+| **ES_EDU_006** | Degradation | `...destrucción de hábitats, la alteración del clima global y la utilización de sustancias xenobióticas están reduciendo la biodiversidad...` | ...habitat destruction, global climate alteration, and the use of xenobiotic substances are reducing biodiversity... | **PH** | Implicit |
+| **ES_EDU_008** | Sustainability | `Emprende acciones fundamentadas científicamente para promover la salud... y preservar el medio ambiente y los seres vivos...` | Undertakes scientifically founded actions to promote health... and to preserve the environment and living beings... | **Both**| Implicit |
 
-### Theme: Sustainable Food Systems / Nutrition
+### 2.3 Scientific & Systems Vocabulary
 
-| ID | Raw Text (Spanish) | Translation (English) | AI Interpretation | Type |
-| :--- | :--- | :--- | :--- | :--- |
-| **ES_001** | `Alimentación sostenible y saludable` | Sustainable and healthy nutrition | Promoting dietary choices that benefit both individual health and planetary boundaries. | **Explicit (PH)** |
-| **ES_007** | `Decisiones de consumo y sus implicaciones para la salud y el planeta` | Consumption decisions and their implications for health and the planet | Linking individual consumer behavior to global environmental and health impacts. | **Implicit (PH)** |
+| ID | Term Found | Raw Text (Spanish) | Translation (English) | Concept | Type |
+| :--- | :--- | :--- | :--- | :---: | :---: |
+| **ES_EDU_007** | Socioecological systems | `Entender la naturaleza interconectada e inter y ecodependiente de las actividades humanas... para promover hábitos... sostenibles.` | Understand the interconnected and inter- and eco-dependent nature of human activities... to promote sustainable habits. | **PH** | Implicit |
 
 ---
 

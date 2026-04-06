@@ -28,28 +28,28 @@ The following original Polish documents have been identified for the Health Educ
 
 ## Section 2: Thematic Analysis Deep Dive (OH/PH)
 
-This section maps Polish curricular requirements (*wymagania szczegółowe*) to OH/PH themes.
+This section maps specific newly extracted curricular requirements (*wymagania szczegółowe*) to **One Health (OH)** and **Planetary Health (PH)** concepts, categorized by the depth of integration (Direct, Indirect, Scientific).
 
-### Theme: One Health / Planetary Health Concepts
+### 2.1 Direct & Core Terminology
 
-| ID | Raw Text (Polish) | Translation (English) | AI Interpretation | Type |
-| :--- | :--- | :--- | :--- | :--- |
-| **PL_003** | `zna pojęcia jednej planety zdrowia (One Health, Planetary Health)` | knows the concepts of One Health, Planetary Health | Direct explicit naming of the project's core frameworks in the national curriculum. | **Explicit (OH)** |
-| **PL_002** | `rozumie wpływ zmian klimatycznych na zdrowie indywidualne i publiczne` | understands the impact of climate change on individual and public health | Direct linkage of climate stability to public health outcomes. | **Explicit (PH)** |
+| ID | Term Found | Raw Text (Polish) | Translation (English) | Concept | Type |
+| :--- | :--- | :--- | :--- | :---: | :---: |
+| **PL_EDU_001** | Planetary Health | `planuje posiłki na podstawie różnych diet (np. diety planetarnej...), korzystając z... informacji, a także uzasadnia wpływ tych diet na zdrowie człowieka i środowisko naturalne` | plans meals based on various diets (e.g., planetary diet...), using... information sources, and also justifies the impact of these diets on human health and the natural environment | **PH** | Explicit |
 
-### Theme: Sustainable Diets / Food Systems
+### 2.2 Indirect & Conceptual Determinants
 
-| ID | Raw Text (Polish) | Translation (English) | AI Interpretation | Type |
-| :--- | :--- | :--- | :--- | :--- |
-| **PL_001** | `rozumie wpływ diety na zdrowie fizyczne, psychiczne i środowisko` | understands the impact of diet on physical, mental health and the environment | Explicitly connects dietary choices to environmental sustainability. | **Explicit (PH)** |
-| **PL_007** | `potrafi podejmować działania proekologiczne przyczyniające się do ochrony zdrowia` | is able to undertake pro-ecological actions contributing to health protection | General pro-environmental behavior for health benefits. | **Implicit (PH)** |
+| ID | Theme | Raw Text (Polish) | Translation (English) | Concept | Type |
+| :--- | :--- | :--- | :--- | :---: | :---: |
+| **PL_EDU_002** | Climate Change | `opisuje, jak zmiany klimatu i degradacja środowiska naturalnego wpływają na zdrowie indywidualne i publiczne...` | describes how climate change and environmental degradation affect individual and public health... | **PH** | Implicit |
+| **PL_EDU_004** | Zoonoses | `wymienia choroby przenoszone przez zwierzęta na ludzi oraz sposoby ochrony przed nimi; opisuje, jak usunąć kleszcza;` | lists diseases transmitted by animals to humans and ways to protect against them; describes how to remove a tick; | **OH** | Implicit |
+| **PL_EDU_005** | AMR | `wyjaśnia, czym są antybiotyki, czym jest antybiotykoodporność i zagrożenia z niej wynikające;` | explains what antibiotics are, what antibiotic resistance is, and the threats resulting from it; | **OH** | Implicit |
+| **PL_EDU_008** | Food Systems | `wyjaśnia wybrane założenia strategii „od pola do stołu”; omawia zrównoważone praktyki żywieniowe;` | explains selected assumptions of the 'farm to fork' strategy; discusses sustainable dietary practices; | **Both**| Implicit |
 
-### Theme: AMR / Zoonoses / Infectious Diseases
+### 2.3 Scientific & Systems Vocabulary
 
-| ID | Raw Text (Polish) | Translation (English) | AI Interpretation | Type |
-| :--- | :--- | :--- | :--- | :--- |
-| **PL_005** | `omawia sposoby zapobiegania chorobom zakaźnym, w tym zasady szczepień ochronnych` | discusses ways of preventing infectious diseases, including principles of vaccination | Focus on prevention of communicable diseases. | **Implicit (OH)** |
-| **PL_004** | `identyfikuje najczęstsze choroby cywilizacyjne i zakaźne oraz ich przyczyny i czynniki ryzyka` | identifies most frequent civilization and infectious diseases and their causes and risk factors | Structural analysis of disease risk, relevant for OH surveillance. | **Implicit (OH)** |
+| ID | Term Found | Raw Text (Polish) | Translation (English) | Concept | Type |
+| :--- | :--- | :--- | :--- | :---: | :---: |
+| **PL_EDU_012** | Pollution (Sci) | `Ukryte zagrożenia – mikroplastik w wodzie pitnej, metale ciężkie w glebie, związki lotne w powietrzu wewnątrz pomieszczeń, światło nocne a rytm biologiczny.` | Hidden threats - microplastics in drinking water, heavy metals in soil, volatile compounds in indoor air, night light and biological rhythm. | **PH** | Implicit |
 
 ---
 
