@@ -1,4 +1,4 @@
-# Level I: Country Identity
+﻿# Level I: Country Identity
 country: "Poland"
 iso_code: "PL"
 bioregion: "Central European"
@@ -12,7 +12,7 @@ education_system:
 # Level I: Document Registry (The Data Map)
 documents:
   - id: "PL_DOC_001"
-    original_name: "Rozporządzenie_ME (1).pdf"
+    original_name: "Rozporządzenie_ME2 (1).pdf"
     standardized_name: "PL_2025_Law_Secondary_EZ.pdf"
     transcript_name: "PL_2025_Law_Secondary_RAW.md"
     level: "Secondary (Liceum, Technikum)"
@@ -23,7 +23,7 @@ documents:
       - "Infectious disease prevention"
 
   - id: "PL_DOC_002"
-    original_name: "Rozporządzenie_ME2 (1).pdf"
+    original_name: "Rozporządzenie_ME (1).pdf"
     standardized_name: "PL_2025_Law_Primary_EZ.pdf"
     transcript_name: "PL_2025_Law_Primary_RAW.md"
     level: "Primary (Szkoła Podstawowa)"
