@@ -5,7 +5,6 @@ To explore the thematic data from the **OneHealth EU** project, please use the i
 ---
 
 ### [🚀 Launch Interactive Dashboard](https://eu-health-ed-repository.streamlit.app/)
-*Note: Replace with your actual Streamlit Cloud URL after deployment.*
 
 ---
 
