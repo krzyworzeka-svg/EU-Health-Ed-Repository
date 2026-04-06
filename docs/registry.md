@@ -27,5 +27,16 @@ This registry provides direct access to both the **normalization metadata** and 
 | **Guide** | Informator: Edukacja... | Gen. Framework | Definition of One Health in Polish context | [Download](https://github.com/krzyworzeka-svg/EU-Health-Ed-Repository/raw/main/data/PL/sources/PL_2025_Guide_General.pdf) | [View](https://raw.githubusercontent.com/krzyworzeka-svg/EU-Health-Ed-Repository/main/data/PL/master.yaml) |
 
 ---
+
+## 🇵🇹 Portugal (PT)
+**Bioregion:** Atlantic/Mediterranean | **System:** Citizenship Education (ENEC)
+
+| Document Type | Official Title (Source) | Level | OH/PH Themes & Indicators | Download (PDF) | Registry (YAML) |
+| :--- | :--- | :--- | :--- | :--- | :---: |
+| **Law** | PNS 2030 | General Framework | One Health, Antimicrobial resistance, Climate transition | [Download](https://github.com/krzyworzeka-svg/EU-Health-Ed-Repository/raw/main/data/PT/sources/PT_2018_Law_General.pdf) | [View](https://raw.githubusercontent.com/krzyworzeka-svg/EU-Health-Ed-Repository/main/data/PT/master.yaml) |
+| **Strategy** | ENEC 2025 | Strategy 2025 | Animal welfare, Biodiversity conservation, Sustainable world | [Download](https://github.com/krzyworzeka-svg/EU-Health-Ed-Repository/raw/main/data/PT/sources/PT_2025_Strategy_Citizenship_B.pdf) | [View](https://raw.githubusercontent.com/krzyworzeka-svg/EU-Health-Ed-Repository/main/data/PT/master.yaml) |
+| **Guide** | Ref. Ambiente | All Levels | Climate change, Resource depletion, Biodiversity threats | [Download](https://github.com/krzyworzeka-svg/EU-Health-Ed-Repository/raw/main/data/PT/sources/PT_2018_Guide_Environment.pdf) | [View](https://raw.githubusercontent.com/krzyworzeka-svg/EU-Health-Ed-Repository/main/data/PT/master.yaml) |
+
+---
 ### Usage Note
 The "OH/PH Themes" column summarizes the **indicators** mapped in the `master.yaml` for each document. Click **Download** for the original PDF or **View** for the full structural metadata.

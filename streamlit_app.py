@@ -10,7 +10,7 @@ st.title("🇪🇺 OneHealth & Planetary Health: EU Analysis Dashboard")
 st.markdown("---")
 
 # Data Loader
-@st.cache_data
+@st.cache_data(ttl=600)
 def load_data():
     import re
     def normalize(text):
