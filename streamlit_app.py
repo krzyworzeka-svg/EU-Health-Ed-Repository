@@ -69,9 +69,15 @@ st.sidebar.header("Filters")
 selected_country = st.sidebar.multiselect("Select Country", options=df['country'].unique(), default=df['country'].unique())
 selected_concept = st.sidebar.multiselect("Select Concept", options=df['concept'].unique(), default=df['concept'].unique())
 selected_topic = st.sidebar.multiselect("Select Topic", options=df['topic'].unique(), default=df['topic'].unique())
+selected_type = st.sidebar.multiselect("Select Type (explicite/implicite)", options=df['type'].unique(), default=df['type'].unique())
 
 # Filter data
-mask = (df['country'].isin(selected_country)) & (df['concept'].isin(selected_concept)) & (df['topic'].isin(selected_topic))
+mask = (
+    df['country'].isin(selected_country) & 
+    df['concept'].isin(selected_concept) & 
+    df['topic'].isin(selected_topic) & 
+    df['type'].isin(selected_type)
+)
 filtered_df = df[mask]
 
 # Dashboard Metrics
