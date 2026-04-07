@@ -8,6 +8,8 @@ education_system:
   framework: "LOMLOE 3/2020"
   model: "Cross-curricular / Integrated"
   primary_focus: "Emotional wellbeing and sustainability"
+  summary: |
+    Health education in Spain is integrated transversally across the curriculum rather than being treated as a single, isolated subject. Key health concepts are embedded in core subjects such as Physical Education, Biology and Geology, and Education in Civic and Ethical Values. Furthermore, Spain actively champions the "Health Promoting Schools" (Escuelas Promotoras de Salud) model, which seeks to transform the entire school environment through a comprehensive, community-based approach involving students, families, and local health agents. This model covers a wide array of topics, including healthy eating, active mobility, affective-sexual education, emotional well-being, and environmental sustainability, often linking human health to the health of the planet through the "One Health" concept.
 
 # Level I: Document Registry (The Data Map)
 documents:

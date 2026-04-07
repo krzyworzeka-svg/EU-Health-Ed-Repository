@@ -8,6 +8,8 @@ education_system:
   framework: "Decree-Law 55/2018 & Citizenship Education (ENEC)"
   model: "Cross-curricular / Citizenship Domains"
   primary_focus: "Health, Environment, and Sustainability as citizenship goals"
+  summary: |
+    In Portugal, health education is primarily implemented as a transversal and transdisciplinary domain within the "Citizenship and Development" (Cidadania e Desenvolvimento) curriculum component. Health is a mandatory dimension that schools must address in at least one school year during each major educational cycle (1st cycle, 2nd/3rd cycles, and secondary education). The Portuguese framework covers essential themes such as mental health and violence prevention, food education, physical activity, addictive behaviors, and affective-sexual education. The approach emphasizes active citizenship, the development of socio-emotional skills, and the creation of strong partnerships between schools, families, and local health resources to empower students to make informed, responsible, and safe lifestyle choices.
 
 # Level I: Document Registry (The Data Map)
 documents:

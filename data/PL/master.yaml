@@ -1,4 +1,4 @@
-﻿# Level I: Country Identity
+# Level I: Country Identity
 country: "Poland"
 iso_code: "PL"
 bioregion: "Central European"
@@ -8,6 +8,8 @@ education_system:
   framework: "Rozporządzenie Ministra Edukacji (Dz.U. 2025 poz. 382)"
   model: "Standalone Subject (from 2025)"
   primary_focus: "Holistic health (physical, mental, social, environmental, digital)"
+  summary: |
+    In Poland, health education ("edukacja zdrowotna") is being introduced as a new, interdisciplinary, but non-compulsory subject starting in the 2025/2026 academic year for grades IV-VIII in primary schools and grades I-III in secondary schools. The curriculum takes a holistic approach, divided into comprehensive modules that cover physical, mental, social, sexual, and environmental health, as well as digital hygiene, addiction prevention, and navigating the healthcare system. The teaching methodology strongly emphasizes practical, project-based learning and active student engagement, often encouraging collaboration with external experts like doctors, dieticians, and psychologists. Because the subject is optional, parents or adult students have the right to submit a written opt-out before the classes begin.
 
 # Level I: Document Registry (The Data Map)
 documents:
