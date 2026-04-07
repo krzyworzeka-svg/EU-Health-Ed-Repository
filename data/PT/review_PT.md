@@ -9,13 +9,33 @@
 
 ## Section 1: Document Screening (Inclusion/Exclusion Validation)
 
-| ID | Document Name (Standardized) | Institutional Status | Geography (PT) | Timeline (Post-2015) | Level (Pri/Sec) |
+### Project Research Criteria
+
+**Inclusion Criteria**
+- **Official Mandates:** Only national or regional organic laws, decrees, and mandatory curricula.
+- **Temporal Scope:** Active frameworks published or implemented post-2020.
+- **Education Level:** Compulsory Primary and Secondary education (ISCED 1-3).
+- **Thematic Focus:** Explicit or implicit links to the One Health/Planetary Health nexus (e.g., climate-health adaptation, zoonotic risks, or sustainable food systems).
+
+**Exclusion Criteria**
+- **Non-Official Sources:** Textbooks, independent lesson plans, NGO reports, or opinion pieces.
+- **Obsolete Data:** Repealed legislation or frameworks no longer in active use.
+- **Non-General Education:** Post-secondary, vocational training (VET), or higher education documents.
+- **Administrative Focus:** Purely financial, infrastructural, or school management regulations.
+
+| ID | Document Name (Standardized) | Institutional Status | Geography (PT) | Timeline (Post-2020) | Level (Pri/Sec) |
 | :--- | :--- | :---: | :---: | :---: | :---: |
 | **PT_DOC_001** | `PT_2018_Law_General.pdf` | [ ] | [ ] | [ ] | [ ] |
 | **PT_DOC_002** | `PT_2017_Guide_Health.pdf` | [ ] | [ ] | [ ] | [ ] |
 | **PT_DOC_003** | `PT_2018_Guide_Environment.pdf` | [ ] | [ ] | [ ] | [ ] |
 | **PT_DOC_004** | `PT_2017_Profile_Students.pdf` | [ ] | [ ] | [ ] | [ ] |
 | **PT_DOC_005** | `PT_2017_Strategy_Citizenship.pdf` | [ ] | [ ] | [ ] | [ ] |
+
+### How to Interpret the Checklist Headers:
+- **Institutional Status**: Confirm if the document is an official government-issued mandate, decree, or national curriculum (Exclude textbooks, NGO reports, or non-mandatory guidelines).
+- **Geography (PT)**: Confirm if the document applies to the entire territory of Portugal.
+- **Timeline (Post-2020)**: Confirm if the framework is currently active and was published or implemented after 2020. *Note: Older foundational documents may be included if still in active use.*
+- **Level (Pri/Sec)**: Confirm if the document covers compulsory primary (ISCED 1) or secondary (ISCED 2-3) education levels.
 
 ## Section 2: Thematic Analysis Deep Dive (OH/PH)
 

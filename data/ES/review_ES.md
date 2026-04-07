@@ -11,6 +11,20 @@
 
 The following documents have been identified for the Spanish health education registry. Please validate them against our project criteria.
 
+### Project Research Criteria
+
+**Inclusion Criteria**
+- **Official Mandates:** Only national or regional organic laws, decrees, and mandatory curricula.
+- **Temporal Scope:** Active frameworks published or implemented post-2020.
+- **Education Level:** Compulsory Primary and Secondary education (ISCED 1-3).
+- **Thematic Focus:** Explicit or implicit links to the One Health/Planetary Health nexus (e.g., climate-health adaptation, zoonotic risks, or sustainable food systems).
+
+**Exclusion Criteria**
+- **Non-Official Sources:** Textbooks, independent lesson plans, NGO reports, or opinion pieces.
+- **Obsolete Data:** Repealed legislation or frameworks no longer in active use.
+- **Non-General Education:** Post-secondary, vocational training (VET), or higher education documents.
+- **Administrative Focus:** Purely financial, infrastructural, or school management regulations.
+
 ### Document Registry Checklist
 
 | ID | Document Name (Standardized) | Institutional Status | Geography (ES) | Timeline (Post-2020) | Level (Pri/Sec) |
@@ -19,6 +33,12 @@ The following documents have been identified for the Spanish health education re
 | **ES_DOC_002** | `ES_2025_Decree_Nutrition.pdf` | [ ] | [ ] | [ ] | [ ] |
 | **ES_DOC_003** | `ES_2022_Decree_Secondary.pdf` | [ ] | [ ] | [ ] | [ ] |
 | **ES_DOC_004** | `ES_2023_Guide_General.pdf` | [ ] | [ ] | [ ] | [ ] |
+
+### How to Interpret the Checklist Headers:
+- **Institutional Status**: Confirm if the document is an official government-issued mandate, decree, or national curriculum (Exclude textbooks, NGO reports, or non-mandatory guidelines).
+- **Geography (ES)**: Confirm if the document applies to the entire territory of Spain (or the relevant autonomous community if applicable).
+- **Timeline (Post-2020)**: Confirm if the framework is currently active and was published or implemented after 2020.
+- **Level (Pri/Sec)**: Confirm if the document covers compulsory primary (ISCED 1) or secondary (ISCED 2-3) education levels.
 
 ### Expert Validation Questions:
 1. **Exclusion**: Should any of the above documents be excluded from the analysis (e.g., if they are superseded or non-mandatory)?
