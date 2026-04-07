@@ -14,8 +14,10 @@ theme:
 nav:
   - Home: index.md
   - Expert Reviews:
+    - Overview: reviews/index.md
     - Spain: reviews/ES.md
     - Poland: reviews/PL.md
+    - Portugal: reviews/PT.md
   - Document Registry: registry.md
   - Data Analysis: dashboard.md
 

@@ -8,7 +8,7 @@ Welcome to the public research portal for the **OneHealth EU** project. This ini
 - **Target Audience**: Researchers, policy-makers, and educational experts.
 
 ## Key Resources
-- [Expert Reviews](reviews/ES.md): Validation from local public health and education experts.
+- [Expert Reviews](reviews/index.md): Country-by-country validation from local public health and education experts.
 - [Document Registry & Archive](registry.md): Direct access to standardized national documents and **original PDF sources**.
 - [Data Analysis](dashboard.md): Interactive visualization of OH/PH concepts in current curricula.
 
