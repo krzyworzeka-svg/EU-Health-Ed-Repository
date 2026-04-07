@@ -7,6 +7,8 @@ This registry provides direct access to both the **normalization metadata** and 
 ## 🇪🇸 Spain (ES)
 **Bioregion:** Mediterranean | **System:** LOMLOE 2020 (Decentralized)
 
+> Health education in Spain is integrated transversally across the curriculum rather than being treated as a single, isolated subject. Key health concepts are embedded in core subjects such as Physical Education, Biology and Geology, and Education in Civic and Ethical Values. Furthermore, Spain actively champions the "Health Promoting Schools" (Escuelas Promotoras de Salud) model, which seeks to transform the entire school environment through a comprehensive, community-based approach involving students, families, and local health agents. This model covers a wide array of topics, including healthy eating, active mobility, affective-sexual education, emotional well-being, and environmental sustainability, often linking human health to the health of the planet through the "One Health" concept.
+
 | Document Type | Official Title (Source) | Level | OH/PH Themes & Indicators | Download (PDF) | Registry (YAML) |
 | :--- | :--- | :--- | :--- | :--- | :---: |
 | **Law** | LOMLOE 3/2020 | General Framework | Human-animal interface, Empathy for living beings | [Download](https://github.com/krzyworzeka-svg/EU-Health-Ed-Repository/raw/main/data/ES/sources/ES_2020_Law_General.pdf) | [View](https://raw.githubusercontent.com/krzyworzeka-svg/EU-Health-Ed-Repository/main/data/ES/master.yaml) |
@@ -19,6 +21,8 @@ This registry provides direct access to both the **normalization metadata** and 
 ## 🇵🇱 Poland (PL)
 **Bioregion:** Central European | **System:** Edukacja Zdrowotna 2025 (Standalone)
 
+> In Poland, health education ("edukacja zdrowotna") is being introduced as a new, interdisciplinary, but non-compulsory subject starting in the 2025/2026 academic year for grades IV-VIII in primary schools and grades I-III in secondary schools. The curriculum takes a holistic approach, divided into comprehensive modules that cover physical, mental, social, sexual, and environmental health, as well as digital hygiene, addiction prevention, and navigating the healthcare system. The teaching methodology strongly emphasizes practical, project-based learning and active student engagement, often encouraging collaboration with external experts like doctors, dieticians, and psychologists. Because the subject is optional, parents or adult students have the right to submit a written opt-out before the classes begin.
+
 | Document Type | Official Title (Source) | Level | OH/PH Themes & Indicators | Download (PDF) | Registry (YAML) |
 | :--- | :--- | :--- | :--- | :--- | :---: |
 | **Law** | Dz.U. 2025 poz. 382 | Secondary | Zoonoses, AMR, Climate-health links, Eco-determinants | [Download](https://github.com/krzyworzeka-svg/EU-Health-Ed-Repository/raw/main/data/PL/sources/PL_2025_Law_Secondary_EZ.pdf) | [View](https://raw.githubusercontent.com/krzyworzeka-svg/EU-Health-Ed-Repository/main/data/PL/master.yaml) |
@@ -30,6 +34,8 @@ This registry provides direct access to both the **normalization metadata** and 
 
 ## 🇵🇹 Portugal (PT)
 **Bioregion:** Atlantic/Mediterranean | **System:** Citizenship Education (ENEC)
+
+> In Portugal, health education is primarily implemented as a transversal and transdisciplinary domain within the "Citizenship and Development" (Cidadania e Desenvolvimento) curriculum component. Health is a mandatory dimension that schools must address in at least one school year during each major educational cycle (1st cycle, 2nd/3rd cycles, and secondary education). The Portuguese framework covers essential themes such as mental health and violence prevention, food education, physical activity, addictive behaviors, and affective-sexual education. The approach emphasizes active citizenship, the development of socio-emotional skills, and the creation of strong partnerships between schools, families, and local health resources to empower students to make informed, responsible, and safe lifestyle choices.
 
 | Document Type | Official Title (Source) | Level | OH/PH Themes & Indicators | Download (PDF) | Registry (YAML) |
 | :--- | :--- | :--- | :--- | :--- | :---: |
