@@ -21,8 +21,9 @@
 
 ### 2.1 Preliminary Findings
 A robust integration of "One Health" and "Planetary Health" is visible in the Portuguese policy documents:
-* **Systemic Health Framing:** The *Plano Nacional de Saúde 2030* (PT_2018_Law_General_RAW.md) makes **explicit references to the verbatim terminology "One Health"**, explicitly connecting climate change ("transição climática") to ecological shifts and the threat of antimicrobial resistance.
-* **Environmental Citizenship:** The *ENEC 2025* document links biodiversity and nature conservation to **animal welfare** ("bem-estar animal") and the quality of life of both present and future generations.
+* **Systemic Health Framing:** The *Plano Nacional de Saúde 2030* (PT_DOC_001) includes **explicit references to "One Health"**, explicitly connecting climate change ("transição climática") to ecological shifts, **Antimicrobial Resistance (AMR)**, and **Syndemics** (the interaction between social contexts and health problems).
+* **Environmental Citizenship:** The *ENEC 2025* (PT_DOC_006) and the *Environmental Education Guide* (PT_DOC_003) link nature conservation directly to **animal welfare**, **ecosystem health**, and the preservation of resources (water and soil) for future generations.
+* **Food Systems:** The *Health Education Reference* (PT_DOC_002) addresses the impact of food choices on nature and the nutritional history of products.
 
 *(Complete raw extraction dataset available in `analysis.jsonl`)*
 

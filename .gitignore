@@ -11,6 +11,10 @@
 !docs/**
 !streamlit_app.py
 !requirements.txt
+!CITATION.cff
+!LICENSE
+!README.md
+
 
 # Do not ignore .gitignore itself
 !.gitignore

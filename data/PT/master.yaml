@@ -19,7 +19,7 @@ documents:
     transcript_name: "PT_2018_Law_General_RAW.md"
     level: "General Framework"
     tags: ["Policy", "Curriculum Autonomy"]
-    oh_ph_indicators: ["One Health", "Antimicrobial resistance", "Climate transition"]
+    oh_ph_indicators: ["One Health", "Syndemics", "Ecological determinants", "Climate-related health risks", "AMR"]
 
   - id: "PT_DOC_002"
     original_name: "referencial_educacao_saude_vf_junho2017.pdf"
@@ -27,7 +27,7 @@ documents:
     transcript_name: "PT_2017_Guide_Health_RAW.md"
     level: "All Levels"
     tags: ["Health Education", "Guidelines"]
-    oh_ph_indicators: []
+    oh_ph_indicators: ["Food systems", "Nutritional history"]
 
   - id: "PT_DOC_003"
     original_name: "referencial_ambiente.pdf"
@@ -35,7 +35,7 @@ documents:
     transcript_name: "PT_2018_Guide_Environment_RAW.md"
     level: "All Levels"
     tags: ["Environmental Education", "Sustainability"]
-    oh_ph_indicators: ["Climate change", "Resource depletion", "Biodiversity threats"]
+    oh_ph_indicators: ["Climate change", "Resource depletion", "Biodiversity", "Ecosystem health", "Water safety", "Soil degradation"]
 
   - id: "PT_DOC_004"
     original_name: "perfil_dos_alunos.pdf"
@@ -59,5 +59,5 @@ documents:
     transcript_name: "PT_2025_Strategy_Citizenship_B_RAW.md"
     level: "Strategy 2025"
     tags: ["Future Framework"]
-    oh_ph_indicators: ["Animal welfare", "Biodiversity conservation", "Sustainable world"]
+    oh_ph_indicators: ["Animal welfare", "Biodiversity conservation", "Sustainable development", "Nature conservation"]
 
