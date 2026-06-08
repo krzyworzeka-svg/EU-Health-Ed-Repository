@@ -57,7 +57,21 @@ def load_data():
                         record['source_link'] = base_url
                 else:
                     record['source_link'] = None
-                
+
+                # Build short document label from filename: CC_YYYY_Type_Topic_RAW.md → "Type Topic (YYYY)"
+                if doc_name:
+                    stem = doc_name.replace('_RAW.md', '')          # e.g. PT_2018_Law_General
+                    parts = stem.split('_')                          # ['PT', '2018', 'Law', 'General']
+                    if len(parts) >= 3:
+                        year = parts[1] if parts[1].isdigit() else ''
+                        label_parts = parts[2:]                      # ['Law', 'General']
+                        label = ' '.join(label_parts)
+                        record['doc_short'] = f"{label} ({year})" if year else label
+                    else:
+                        record['doc_short'] = stem
+                else:
+                    record['doc_short'] = ''
+
                 all_data.append(record)
     return pd.DataFrame(all_data)
 
@@ -74,8 +88,8 @@ selected_type = st.sidebar.multiselect("Select Type (explicite/implicite)", opti
 # Filter data
 mask = (
     df['country'].isin(selected_country) & 
-    df['concept'].isin(selected_concept) & 
-    df['topic'].isin(selected_topic) & 
+    df['concept'].isin(selected_concept) &
+    df['topic'].isin(selected_topic) &
     df['type'].isin(selected_type)
 )
 filtered_df = df[mask]
@@ -94,11 +108,16 @@ st.subheader("Extracted Snippets (OH/PH)")
 
 # Configure columns to display the GitHub link clearly
 if not filtered_df.empty and 'source_link' in filtered_df.columns:
-    display_cols = ['country', 'topic', 'raw_text', 'translation_en', 'concept', 'type', 'source_link']
+    display_cols = ['country', 'doc_short', 'topic', 'raw_text', 'translation_en', 'concept', 'type', 'source_link']
     st.dataframe(
         filtered_df[display_cols],
         use_container_width=True,
         column_config={
+            "doc_short": st.column_config.TextColumn(
+                "Document",
+                help="Short name of the source document",
+                width="medium"
+            ),
             "source_link": st.column_config.LinkColumn(
                 "Source Document",
                 help="Click to view the raw transcript on GitHub",
@@ -107,7 +126,8 @@ if not filtered_df.empty and 'source_link' in filtered_df.columns:
         }
     )
 else:
-    st.dataframe(filtered_df[['country', 'topic', 'raw_text', 'translation_en', 'concept', 'type']], use_container_width=True)
+    st.dataframe(filtered_df[['country', 'doc_short', 'topic', 'raw_text', 'translation_en', 'concept', 'type']], use_container_width=True)
+
 
 # Concept Chart
 st.subheader("Distribution by Concept")
