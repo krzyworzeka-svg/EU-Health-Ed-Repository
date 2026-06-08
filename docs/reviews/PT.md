@@ -30,6 +30,7 @@
 | **PT_DOC_003** | `PT_2018_Guide_Environment.pdf` | [ ] | [ ] | [ ] | [ ] |
 | **PT_DOC_004** | `PT_2017_Profile_Students.pdf` | [ ] | [ ] | [ ] | [ ] |
 | **PT_DOC_005** | `PT_2025_Curriculum_Citizenship.pdf` | [ ] | [ ] | [ ] | [ ] |
+| **PT_DOC_007** | `PT_2024_Guide_HumanRights.pdf` | [ ] | [ ] | [ ] | [ ] |
 
 ### How to Interpret the Checklist Headers:
 - **Institutional Status**: Confirm if the document is an official government-issued mandate, decree, or national curriculum (Exclude textbooks, NGO reports, or non-mandatory guidelines).

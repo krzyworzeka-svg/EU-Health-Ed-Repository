@@ -63,3 +63,11 @@ documents:
     tags: ["Future Framework"]
     oh_ph_indicators: ["Animal welfare", "Biodiversity conservation", "Sustainable development", "Nature conservation"]
 
+  - id: "PT_DOC_007"
+    original_name: "referencial_direitos_humanos_2024.pdf"
+    standardized_name: "PT_2024_Guide_HumanRights.pdf"
+    transcript_name: "PT_2024_Guide_HumanRights_RAW.md"
+    level: "All Levels"
+    tags: ["Human Rights", "Guidelines", "Citizenship"]
+    oh_ph_indicators: ["Social determinants of health", "Health equity", "Environmental justice"]
+
