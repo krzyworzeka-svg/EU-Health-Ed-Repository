@@ -81,3 +81,11 @@ documents:
     tags: ["Consumer Education", "Guidelines", "Sustainability"]
     oh_ph_indicators: ["Sustainable consumption", "Food systems", "Environmental impact"]
 
+  - id: "PT_DOC_009"
+    original_name: "referencial_de_educacao_para_o_desenvolvimento.pdf"
+    standardized_name: "PT_2016_Guide_Development.pdf"
+    transcript_name: "PT_2016_Guide_Development_RAW.md"
+    level: "All Levels"
+    tags: ["Development Education", "Guidelines", "Global Citizenship"]
+    oh_ph_indicators: ["Sustainable development", "Global health equity", "Environmental justice"]
+
