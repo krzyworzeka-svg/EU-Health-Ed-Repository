@@ -22,22 +22,6 @@ documents:
     tags: ["Policy", "Curriculum Autonomy"]
     oh_ph_indicators: ["One Health", "Syndemics", "Ecological determinants", "Climate-related health risks", "AMR"]
 
-  - id: "PT_DOC_002"
-    original_name: "referencial_educacao_saude_vf_junho2017.pdf"
-    standardized_name: "PT_2017_Guide_Health.pdf"
-    transcript_name: "PT_2017_Guide_Health_RAW.md"
-    level: "All Levels"
-    tags: ["Health Education", "Guidelines"]
-    oh_ph_indicators: ["Food systems", "Nutritional history"]
-
-  - id: "PT_DOC_003"
-    original_name: "referencial_ambiente.pdf"
-    standardized_name: "PT_2018_Guide_Environment.pdf"
-    transcript_name: "PT_2018_Guide_Environment_RAW.md"
-    level: "All Levels"
-    tags: ["Environmental Education", "Sustainability"]
-    oh_ph_indicators: ["Climate change", "Resource depletion", "Biodiversity", "Ecosystem health", "Water safety", "Soil degradation"]
-
   - id: "PT_DOC_004"
     original_name: "perfil_dos_alunos.pdf"
     standardized_name: "PT_2017_Profile_Students.pdf"
@@ -63,6 +47,24 @@ documents:
     tags: ["Future Framework"]
     oh_ph_indicators: ["Animal welfare", "Biodiversity conservation", "Sustainable development", "Nature conservation"]
 
+  # --- Guides (non-mandatory thematic referentials) ---
+
+  - id: "PT_DOC_002"
+    original_name: "referencial_educacao_saude_vf_junho2017.pdf"
+    standardized_name: "PT_2017_Guide_Health.pdf"
+    transcript_name: "PT_2017_Guide_Health_RAW.md"
+    level: "All Levels"
+    tags: ["Health Education", "Guidelines"]
+    oh_ph_indicators: ["Food systems", "Nutritional history"]
+
+  - id: "PT_DOC_003"
+    original_name: "referencial_ambiente.pdf"
+    standardized_name: "PT_2018_Guide_Environment.pdf"
+    transcript_name: "PT_2018_Guide_Environment_RAW.md"
+    level: "All Levels"
+    tags: ["Environmental Education", "Sustainability"]
+    oh_ph_indicators: ["Climate change", "Resource depletion", "Biodiversity", "Ecosystem health", "Water safety", "Soil degradation"]
+
   - id: "PT_DOC_007"
     original_name: "referencial_direitos_humanos_2024.pdf"
     standardized_name: "PT_2024_Guide_HumanRights.pdf"
@@ -70,4 +72,12 @@ documents:
     level: "All Levels"
     tags: ["Human Rights", "Guidelines", "Citizenship"]
     oh_ph_indicators: ["Social determinants of health", "Health equity", "Environmental justice"]
+
+  - id: "PT_DOC_008"
+    original_name: "Referencial-de-Educação-do-Consumidor.pdf"
+    standardized_name: "PT_2018_Guide_Consumer.pdf"
+    transcript_name: "PT_2018_Guide_Consumer_RAW.md"
+    level: "All Levels"
+    tags: ["Consumer Education", "Guidelines", "Sustainability"]
+    oh_ph_indicators: ["Sustainable consumption", "Food systems", "Environmental impact"]
 

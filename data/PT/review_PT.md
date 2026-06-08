@@ -26,11 +26,13 @@
 | ID | Document Name (Standardized) | Institutional Status | Geography (PT) | Timeline (Post-2020) | Level (Pri/Sec) |
 | :--- | :--- | :---: | :---: | :---: | :---: |
 | **PT_DOC_001** | `PT_2018_Law_General.pdf` | [ ] | [ ] | [ ] | [ ] |
-| **PT_DOC_002** | `PT_2017_Guide_Health.pdf` | [ ] | [ ] | [ ] | [ ] |
-| **PT_DOC_003** | `PT_2018_Guide_Environment.pdf` | [ ] | [ ] | [ ] | [ ] |
 | **PT_DOC_004** | `PT_2017_Profile_Students.pdf` | [ ] | [ ] | [ ] | [ ] |
 | **PT_DOC_005** | `PT_2025_Curriculum_Citizenship.pdf` | [ ] | [ ] | [ ] | [ ] |
+| **PT_DOC_006** | `PT_2025_Strategy_Citizenship_B.pdf` | [ ] | [ ] | [ ] | [ ] |
+| **PT_DOC_002** | `PT_2017_Guide_Health.pdf` | [ ] | [ ] | [ ] | [ ] |
+| **PT_DOC_003** | `PT_2018_Guide_Environment.pdf` | [ ] | [ ] | [ ] | [ ] |
 | **PT_DOC_007** | `PT_2024_Guide_HumanRights.pdf` | [ ] | [ ] | [ ] | [ ] |
+| **PT_DOC_008** | `PT_2018_Guide_Consumer.pdf` | [ ] | [ ] | [ ] | [ ] |
 
 ### How to Interpret the Checklist Headers:
 - **Institutional Status**: Confirm if the document is an official government-issued mandate, decree, or national curriculum (Exclude textbooks, NGO reports, or non-mandatory guidelines).
