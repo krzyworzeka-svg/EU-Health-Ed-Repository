@@ -9,7 +9,8 @@ education_system:
   model: "Cross-curricular / Citizenship Domains"
   primary_focus: "Health, Environment, and Sustainability as citizenship goals"
   summary: |
-    In Portugal, health education is primarily implemented as a transversal and transdisciplinary domain within the "Citizenship and Development" (Cidadania e Desenvolvimento) curriculum component. Health is a mandatory dimension that schools must address in at least one school year during each major educational cycle (1st cycle, 2nd/3rd cycles, and secondary education). The Portuguese framework covers essential themes such as mental health and violence prevention, food education, physical activity, addictive behaviors, and affective-sexual education. The approach emphasizes active citizenship, the development of socio-emotional skills, and the creation of strong partnerships between schools, families, and local health resources to empower students to make informed, responsible, and safe lifestyle choices.
+    In Portugal, health education is primarily implemented as a transversal and transdisciplinary domain within the "Citizenship and Development" (Cidadania e Desenvolvimento) curriculum component, governed by the National Strategy of Citizenship Education (ENEC, updated in August 2025). Health is a mandatory dimension that schools must address in at least one school year during each major educational cycle (1st cycle, 2nd/3rd cycles, and secondary education). The Portuguese framework covers essential themes such as mental health and violence prevention, food education, physical activity, addictive behaviors, and affective-sexual education. The approach emphasizes active citizenship, the development of socio-emotional skills, systems thinking, and the creation of strong partnerships between schools, families, and local health resources to empower students to make informed, responsible, and safe lifestyle choices.
+    However, recent curriculum analyses (such as the 2026 BEACON COST Action report by Carla Sousa) highlight that the Portuguese framework still maintains a predominantly anthropocentric focus. While topics like food systems and environmental factors are included, an integrated 'One Health' approach, linking human, animal, and ecosystem health, is not explicitly conceptualized or operationalized. Furthermore, because specific thematic guidelines (such as the Health and Environmental Education Referentials) function as non-mandatory guiding resources rather than strict curricular prescriptions, the actual implementation of these interconnected health themes remains fragmented and highly dependent on local pedagogical initiatives and individual school choices.
 
 # Level I: Document Registry (The Data Map)
 documents:
@@ -47,11 +48,12 @@ documents:
 
   - id: "PT_DOC_005"
     original_name: "cidadania-desenvolvimento.pdf"
-    standardized_name: "PT_2017_Strategy_Citizenship.pdf"
-    transcript_name: "PT_2017_Strategy_Citizenship_RAW.md"
-    level: "Citizenship"
-    tags: ["Citizenship", "Strategy"]
-    oh_ph_indicators: []
+    standardized_name: "PT_2025_Curriculum_Citizenship.pdf"
+    transcript_name: "PT_2025_Curriculum_Citizenship_RAW.md"
+    level: "Primary & Secondary (ISCED 1-3)"
+    date: "2025-09-01"
+    tags: ["Citizenship", "Essential Learning", "Aprendizagens Essenciais", "Curriculum"]
+    oh_ph_indicators: ["Health literacy", "Sustainable development", "Media literacy"]
 
   - id: "PT_DOC_006"
     original_name: "enec_2025.pdf"
