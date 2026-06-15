@@ -52,6 +52,23 @@ This registry provides direct access to both the **normalization metadata** and 
 | **Guide** | Consumer Education Framework | All Levels | Ministério da Educação - Direção-Geral da Educação. *Referencial de Educação do Consumidor*. 2018. | [Download](https://github.com/krzyworzeka-svg/EU-Health-Ed-Repository/raw/main/data/PT/sources/PT_2018_Guide_Consumer.pdf) | [View](https://raw.githubusercontent.com/krzyworzeka-svg/EU-Health-Ed-Repository/main/data/PT/master.yaml) |
 | **Guide** | Development Education Framework (2016) | All Levels | Ministério da Educação - Direção-Geral da Educação. *Referencial de Educação para o Desenvolvimento*. 2016. | [Download](https://github.com/krzyworzeka-svg/EU-Health-Ed-Repository/raw/main/data/PT/sources/PT_2016_Guide_Development.pdf) | [View](https://raw.githubusercontent.com/krzyworzeka-svg/EU-Health-Ed-Repository/main/data/PT/master.yaml) |
 
+
+---
+
+## 🇱🇻 Latvia (LV)
+**Bioregion:** Baltic / Boreal | **System:** Skola2030 (Integrated / Standalone Subject)
+
+> In Latvia, health education is primarily integrated into the "Sports and Health" (Sports un veselība) subject framework, mandated by Cabinet Regulation No. 747. The Skola2030 competence approach emphasizes a holistic understanding of healthy lifestyle choices, physical well-being, and risk recognition. It is supported by cross-sectoral initiatives like the Health Promoting Schools network and the Ministry of Health's prevention programs.
+
+| Document Type | Short Title | Level | Full Bibliographic Citation (Chicago 17th) | Download (PDF) | Registry (YAML) |
+| :--- | :--- | :--- | :--- | :--- | :---: |
+| **Curriculum** | Sports and Health (Grades 1-9) | Primary & Lower Secondary | National Centre for Education. *Sports un veselība 1.–9. klasei: Mācību priekšmeta programmas paraugs*. 2018. | [Download](https://github.com/krzyworzeka-svg/EU-Health-Ed-Repository/raw/main/data/LV/sources/LV_2018_Curriculum_Sports_Health_1_9.pdf) | [View](https://raw.githubusercontent.com/krzyworzeka-svg/EU-Health-Ed-Repository/main/data/LV/master.yaml) |
+| **Law** | Basic Education Standard | Basic Education | Cabinet of the Republic of Latvia. *Cabinet Regulation No. 747 - Regulations Regarding the State Basic Education Standard and Model Basic Education Programmes*. 2018. | [Download](https://github.com/krzyworzeka-svg/EU-Health-Ed-Repository/raw/main/data/LV/sources/LV_2018_Law_Basic_Education_Standard.docx) | [View](https://raw.githubusercontent.com/krzyworzeka-svg/EU-Health-Ed-Repository/main/data/LV/master.yaml) |
+| **Report** | UNECE Sustainable Development | National Level | Government of the Republic of Latvia. *Format for reporting on implementation of the UNECE Strategy for Education for Sustainable Development*. 2018. | [Download](https://github.com/krzyworzeka-svg/EU-Health-Ed-Repository/raw/main/data/LV/sources/LV_2018_Report_UNECE_Sustainable_Development.pdf) | [View](https://raw.githubusercontent.com/krzyworzeka-svg/EU-Health-Ed-Repository/main/data/LV/master.yaml) |
+| **Report** | OECD Policy Outlook 2019 | International Context | OECD. *Education Policy Outlook 2019: Working Together to Help Students Achieve their Potential*. 2019. | [Download](https://github.com/krzyworzeka-svg/EU-Health-Ed-Repository/raw/main/data/LV/sources/LV_2019_Report_OECD_Policy_Outlook.pdf) | [View](https://raw.githubusercontent.com/krzyworzeka-svg/EU-Health-Ed-Repository/main/data/LV/master.yaml) |
+| **Curriculum** | Skola2030 Health Outcomes | Grades 3, 6, 9 | National Centre for Education. *Veselības un fiziskās aktivitātes mācību joma: Plānotie skolēnam sasniedzamie rezultāti pamatizglītības standartā, beidzot 3., 6. un 9. klasi*. 2018. | [Download](https://github.com/krzyworzeka-svg/EU-Health-Ed-Repository/raw/main/data/LV/sources/LV_2018_Curriculum_Skola2030_Outcomes.pdf) | [View](https://raw.githubusercontent.com/krzyworzeka-svg/EU-Health-Ed-Repository/main/data/LV/master.yaml) |
+| **Report** | Eurydice Single Structure | Basic Curriculum | State Education Development Agency. *Teaching and learning in single-structure education*. 2018. | [Download](https://github.com/krzyworzeka-svg/EU-Health-Ed-Repository/raw/main/data/LV/sources/LV_2018_Report_Eurydice_Single_Structure.pdf) | [View](https://raw.githubusercontent.com/krzyworzeka-svg/EU-Health-Ed-Repository/main/data/LV/master.yaml) |
+
 ---
 ### Usage Note
 The "Full Bibliographic Citation (Chicago 17th)" column gives standard references mapped in the `master.yaml` for each document. Click **Download** for the original PDF or **View** for the full structural metadata.
