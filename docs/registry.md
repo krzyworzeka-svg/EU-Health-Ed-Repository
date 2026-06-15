@@ -11,6 +11,7 @@ This registry provides direct access to both the **normalization metadata** and 
     <li><a href="#country-pl">🇵🇱 Poland (PL)</a></li>
     <li><a href="#country-pt">🇵🇹 Portugal (PT)</a></li>
     <li><a href="#country-lv">🇱🇻 Latvia (LV)</a></li>
+    <li><a href="#country-lt">🇱🇹 Lithuania (LT)</a></li>
   </ul>
 </details>
 
@@ -84,6 +85,20 @@ This registry provides direct access to both the **normalization metadata** and 
 | **Report** | OECD Policy Outlook 2019 | International Context | OECD. *Education Policy Outlook 2019: Working Together to Help Students Achieve their Potential*. 2019. | [Download](https://github.com/krzyworzeka-svg/EU-Health-Ed-Repository/raw/main/data/LV/sources/LV_2019_Report_OECD_Policy_Outlook.pdf) | [View](https://raw.githubusercontent.com/krzyworzeka-svg/EU-Health-Ed-Repository/main/data/LV/master.yaml) |
 | **Curriculum** | Skola2030 Health Outcomes | Grades 3, 6, 9 | National Centre for Education. *Veselības un fiziskās aktivitātes mācību joma: Plānotie skolēnam sasniedzamie rezultāti pamatizglītības standartā, beidzot 3., 6. un 9. klasi*. 2018. | [Download](https://github.com/krzyworzeka-svg/EU-Health-Ed-Repository/raw/main/data/LV/sources/LV_2018_Curriculum_Skola2030_Outcomes.pdf) | [View](https://raw.githubusercontent.com/krzyworzeka-svg/EU-Health-Ed-Repository/main/data/LV/master.yaml) |
 | **Report** | Eurydice Single Structure | Basic Curriculum | State Education Development Agency. *Teaching and learning in single-structure education*. 2018. | [Download](https://github.com/krzyworzeka-svg/EU-Health-Ed-Repository/raw/main/data/LV/sources/LV_2018_Report_Eurydice_Single_Structure.pdf) | [View](https://raw.githubusercontent.com/krzyworzeka-svg/EU-Health-Ed-Repository/main/data/LV/master.yaml) |
+
+---
+
+<a id="country-lt"></a>
+## 🇱🇹 Lithuania (LT)
+**Bioregion:** Baltic / Boreal | **System:** General Programmes (Centralized Curriculum) | **Reviewed by:** TBD
+
+> In Lithuania, health education is profoundly integrated across multiple dimensions of the educational architecture. The Law on Education mandates health care within schools directly linking to municipal public health systems. The primary curricular vehicle is the "Life Skills General Programme" (Gyvenimo įgūdžių bendroji programa), which serves as a dedicated pillar for equipping students with physical, mental, and social-emotional competencies. Furthermore, the system permits highly specialized pedagogical frameworks, such as the "Concept of Ecology and Environmental Technologies Education", which acts as an incubator for advanced, cross-disciplinary Planetary Health teaching.
+
+| Document Type | Short Title | Level | Full Bibliographic Citation (Chicago 17th) | Download (PDF) | Registry (YAML) |
+| :--- | :--- | :--- | :--- | :--- | :---: |
+| **Law** | Law on Education | General Framework | Parliament of the Republic of Lithuania. *Lietuvos Respublikos švietimo įstatymas*. 2026. | [Download](https://github.com/krzyworzeka-svg/EU-Health-Ed-Repository/raw/main/data/LT/sources/LT_2026_Law_Education.pdf) | [View](https://raw.githubusercontent.com/krzyworzeka-svg/EU-Health-Ed-Repository/main/data/LT/master.yaml) |
+| **Curriculum** | General Curricula (Life Skills) | Pre-primary to Secondary | Ministry of Education, Science and Sport. *Priešmokyklinio, pradinio, pagrindinio ir vidurinio ugdymo bendrosios programos*. 2025. | [Download](https://github.com/krzyworzeka-svg/EU-Health-Ed-Repository/raw/main/data/LT/sources/LT_2025_Curriculum_General.pdf) | [View](https://raw.githubusercontent.com/krzyworzeka-svg/EU-Health-Ed-Repository/main/data/LT/master.yaml) |
+| **Implementation** | General Education Plans | Primary to Secondary | Ministry of Education, Science and Sport. *2025–2026 ir 2026–2027 mokslo metų pradinio, pagrindinio ir vidurinio ugdymo programų bendrieji ugdymo planai*. 2026. | [Download](https://github.com/krzyworzeka-svg/EU-Health-Ed-Repository/raw/main/data/LT/sources/LT_2026_Plan_General_Education.pdf) | [View](https://raw.githubusercontent.com/krzyworzeka-svg/EU-Health-Ed-Repository/main/data/LT/master.yaml) |
 
 ---
 ### Usage Note

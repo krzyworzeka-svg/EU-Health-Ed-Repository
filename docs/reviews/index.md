@@ -12,6 +12,7 @@ The following table tracks the progress of expert validation across the European
 | **Poland** | `PL` | Central European | 🟡 Under Review | Paweł Krzyworzeka | [View Review Dashboard](PL.md) |
 | **Portugal** | `PT` | Atlantic/Mediterranean | 🟡 Under Review | Carla Sousa | [View Review Dashboard](PT.md) |
 | **Latvia** | `LV` | Baltic/Boreal | 🟡 Under Review | Aija Klavina | [View Review Dashboard](LV.md) |
+| **Lithuania** | `LT` | Baltic/Boreal | 🟡 Under Review | *TBD* | [View Review Dashboard](LT.md) |
 
 ---
 
