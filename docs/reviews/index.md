@@ -11,6 +11,7 @@ The following table tracks the progress of expert validation across the European
 | **Spain** | `ES` | Mediterranean | 🟡 Under Review | [View Review Dashboard](ES.md) |
 | **Poland** | `PL` | Central European | 🟡 Under Review | [View Review Dashboard](PL.md) |
 | **Portugal** | `PT` | Atlantic/Mediterranean | 🟡 Under Review | [View Review Dashboard](PT.md) |
+| **Latvia** | `LV` | Baltic/Boreal | 🟡 Under Review | [View Review Dashboard](LV.md) |
 
 ---
 
