@@ -6,12 +6,12 @@ Welcome to the **OneHealth EU Expert Review Portal**. This section is dedicated 
 
 The following table tracks the progress of expert validation across the European Union. Researchers and experts can select their country to begin the review process.
 
-| Country | Code | Bio-region | Validation Status | Review Link |
-| :--- | :---: | :--- | :---: | :--- |
-| **Spain** | `ES` | Mediterranean | 🟡 Under Review | [View Review Dashboard](ES.md) |
-| **Poland** | `PL` | Central European | 🟡 Under Review | [View Review Dashboard](PL.md) |
-| **Portugal** | `PT` | Atlantic/Mediterranean | 🟡 Under Review | [View Review Dashboard](PT.md) |
-| **Latvia** | `LV` | Baltic/Boreal | 🟡 Under Review | [View Review Dashboard](LV.md) |
+| Country | Code | Bio-region | Validation Status | Expert | Review Link |
+| :--- | :---: | :--- | :---: | :--- | :--- |
+| **Spain** | `ES` | Mediterranean | 🟡 Under Review | *TBD* | [View Review Dashboard](ES.md) |
+| **Poland** | `PL` | Central European | 🟡 Under Review | Paweł Krzyworzeka | [View Review Dashboard](PL.md) |
+| **Portugal** | `PT` | Atlantic/Mediterranean | 🟡 Under Review | Carla Sousa | [View Review Dashboard](PT.md) |
+| **Latvia** | `LV` | Baltic/Boreal | 🟡 Under Review | Aija Klavina | [View Review Dashboard](LV.md) |
 
 ---
 

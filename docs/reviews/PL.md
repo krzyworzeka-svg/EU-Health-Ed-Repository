@@ -3,7 +3,7 @@
 **Role:** Senior Research Assistant in Public Health Education  
 **Date:** 2026-04-06  
 **Project:** One Health (OH) and Planetary Health (PH) in EU Education  
-**Collaborator:** Polish Expert Validator
+**Collaborator:** Pawel Krzyworzeka, Kozminski University, Poland
 
 ---
 

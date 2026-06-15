@@ -3,7 +3,7 @@
 **Role:** Senior Research Assistant in Public Health Education  
 **Date:** 2026-06-15
 **Project:** One Health (OH) and Planetary Health (PH) in EU Education  
-**Collaborator:** Latvian Expert Validator
+**Collaborator:** Aija Klavina, Riga Stradins University, Latvia
 
 ---
 

@@ -1,12 +1,25 @@
 cff-version: 1.2.0
-message: "If you use this dataset, please cite it as below."
+title: "EU Health Education One Health Repository"
+message: "If you use this dataset or repository, please cite it as below."
+type: dataset
 authors:
   - family-names: "Krzyworzeka"
     given-names: "Paweł"
-    orcid: "https://orcid.org/0000-0003-3792-7937" 
-  - family-names: "Lavrador"
-    given-names: "Catarina"
-    affiliation: "University of Évora Pólo da Mitra"
-title: "EU Health Education One Health Repository"
-version: 1.0.0
-date-released: 2026-04-07
+    affiliation: "Kozminski University, Poland"
+    roles:
+      - "conceptualization"
+      - "data curation"
+      - "validation"
+  - family-names: "Klavina"
+    given-names: "Aija"
+    affiliation: "Riga Stradins University, Latvia"
+    roles:
+      - "data curation"
+      - "validation"
+  - family-names: "Sousa"
+    given-names: "Carla"
+    roles:
+      - "data curation"
+      - "validation"
+repository-code: "https://github.com/krzyworzeka-svg/EU-Health-Ed-Repository"
+license: CC-BY-4.0

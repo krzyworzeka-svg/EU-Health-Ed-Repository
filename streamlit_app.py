@@ -85,6 +85,15 @@ selected_concept = st.sidebar.multiselect("Select Concept", options=df['concept'
 selected_topic = st.sidebar.multiselect("Select Topic", options=df['topic'].unique(), default=df['topic'].unique())
 selected_type = st.sidebar.multiselect("Select Type (explicite/implicite)", options=df['type'].unique(), default=df['type'].unique())
 
+# Experts & Contributors
+st.sidebar.markdown("---")
+st.sidebar.header("Country Experts")
+st.sidebar.markdown("""
+- **Latvia (LV):** Aija Klavina, Riga Stradins University
+- **Poland (PL):** Paweł Krzyworzeka, Kozminski University
+- **Portugal (PT):** Carla Sousa
+""")
+
 # Filter data
 mask = (
     df['country'].isin(selected_country) & 

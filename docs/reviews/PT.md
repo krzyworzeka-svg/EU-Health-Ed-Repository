@@ -3,7 +3,7 @@
 **Role:** Senior Research Assistant in Public Health Education  
 **Date:** 2026-04-07
 **Project:** One Health (OH) and Planetary Health (PH) in EU Education  
-**Collaborator:** Portuguese Expert Validator
+**Collaborator:** Carla Sousa
 
 ---
 
