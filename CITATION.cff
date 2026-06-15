@@ -21,5 +21,17 @@ authors:
     roles:
       - "data curation"
       - "validation"
+  - family-names: "Rutkienė"
+    given-names: "Aušra"
+    affiliation: "Vytautas Magnus University, Lithuania"
+    roles:
+      - "data curation"
+      - "validation"
+  - family-names: "Puksas"
+    given-names: "Andrius"
+    affiliation: "Vytautas Magnus University, Lithuania"
+    roles:
+      - "data curation"
+      - "validation"
 repository-code: "https://github.com/krzyworzeka-svg/EU-Health-Ed-Repository"
 license: CC-BY-4.0

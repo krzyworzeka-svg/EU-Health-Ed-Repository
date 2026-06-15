@@ -90,6 +90,7 @@ st.sidebar.markdown("---")
 st.sidebar.header("Country Experts")
 st.sidebar.markdown("""
 - **Latvia (LV):** Aija Klavina, Riga Stradins University
+- **Lithuania (LT):** Aušra Rutkienė & Andrius Puksas, Vytautas Magnus University
 - **Poland (PL):** Paweł Krzyworzeka, Kozminski University
 - **Portugal (PT):** Carla Sousa
 """)

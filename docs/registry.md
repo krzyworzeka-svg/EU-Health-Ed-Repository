@@ -90,7 +90,7 @@ This registry provides direct access to both the **normalization metadata** and 
 
 <a id="country-lt"></a>
 ## 🇱🇹 Lithuania (LT)
-**Bioregion:** Baltic / Boreal | **System:** General Programmes (Centralized Curriculum) | **Reviewed by:** TBD
+**Bioregion:** Baltic / Boreal | **System:** General Programmes (Centralized Curriculum) | **Reviewed by:** Aušra Rutkienė & Andrius Puksas
 
 > In Lithuania, health education is profoundly integrated across multiple dimensions of the educational architecture. The Law on Education mandates health care within schools directly linking to municipal public health systems. The primary curricular vehicle is the "Life Skills General Programme" (Gyvenimo įgūdžių bendroji programa), which serves as a dedicated pillar for equipping students with physical, mental, and social-emotional competencies. Furthermore, the system permits highly specialized pedagogical frameworks, such as the "Concept of Ecology and Environmental Technologies Education", which acts as an incubator for advanced, cross-disciplinary Planetary Health teaching.
 

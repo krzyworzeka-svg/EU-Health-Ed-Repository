@@ -3,7 +3,7 @@
 **Role:** Senior Research Assistant in Public Health Education  
 **Date:** 2026-06-15
 **Project:** One Health (OH) and Planetary Health (PH) in EU Education  
-**Collaborator:** Lithuanian Expert Validator
+**Collaborator:** Aušra Rutkienė, Vytautas Magnus University & Andrius Puksas, Vytautas Magnus University
 
 ---
 
