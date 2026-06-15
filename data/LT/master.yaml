@@ -5,37 +5,37 @@ educational_system_type: General Programmes (Centralized Curriculum)
 
 documents:
   - id: LT_DOC_001
-    standardized_name: LT_2025_Curriculum_General.pdf
-    original_name: AR_2025-11-25.pdf
-    transcript_name: LT_2025_Curriculum_General_RAW.md
-    metadata:
-      title_local: "Priešmokyklinio, pradinio, pagrindinio ir vidurinio ugdymo bendrosios programos"
-      title_english: "General Programmes for Pre-primary, Primary, Basic and Secondary Education"
-      publishing_institution: "Ministry of Education, Science and Sport of the Republic of Lithuania"
-      year: 2025
-      document_type: "Legislative Act / National Curriculum Framework"
-      primary_objective: "The document establishes 'social, emotional, and healthy lifestyle competence' as a core educational pillar, aiming to equip students with self-awareness, relationship-building skills, and the ability to proactively care for their physical and mental health. Furthermore, it mandates the integration of health and healthy lifestyle as a cross-curricular theme across various subjects to continuously address critical issues such as stress management, safe behavior, and the prevention of harmful habits."
-
-  - id: LT_DOC_002
-    standardized_name: LT_2026_Curriculum_General.pdf
-    original_name: AR_2026-01-07.pdf
-    transcript_name: LT_2026_Curriculum_General_RAW.md
-    metadata:
-      title_local: "Priešmokyklinio, pradinio, pagrindinio ir vidurinio ugdymo bendrosios programos"
-      title_english: "General Programmes for Pre-primary, Primary, Basic and Secondary Education"
-      publishing_institution: "Ministry of Education, Science and Sport of the Republic of Lithuania"
-      year: 2026
-      document_type: "Legislative Act / National Curriculum Framework"
-      primary_objective: "The document establishes 'social, emotional, and healthy lifestyle competence' as a core educational pillar, aiming to equip students with self-awareness, relationship-building skills, and the ability to proactively care for their physical and mental health. Furthermore, it mandates the integration of health and healthy lifestyle as a cross-curricular theme across various subjects to continuously address critical issues such as stress management, safe behavior, and the prevention of harmful habits."
-
-  - id: LT_DOC_003
     standardized_name: LT_2026_Law_Education.pdf
     original_name: AR_2026-05-22.pdf
     transcript_name: LT_2026_Law_Education_RAW.md
     metadata:
       title_local: "Lietuvos Respublikos švietimo įstatymas"
       title_english: "Law on Education of the Republic of Lithuania"
-      publishing_institution: "Parliament of the Republic of Lithuania"
+      publishing_institution: "Parliament of the Republic of Lithuania (Lietuvos Respublikos Seimas)"
       year: 2026
       document_type: "Legislative Act"
-      primary_objective: "The law establishes the legal mandate for schools to safeguard and promote student well-being by developing and implementing dedicated health promotion programs. These programs are defined as comprehensive measures aimed at strengthening students' physical and mental health, cultivating healthy lifestyle values, and fostering a health-enhancing school environment."
+      primary_objective: "The law establishes the legal mandate for schools to safeguard and promote student well-being by developing and implementing dedicated health promotion programs. These programs are defined as comprehensive measures aimed at strengthening students' physical and mental health, cultivating healthy lifestyle values, and fostering a health-enhancing school environment (Art. 26(1))."
+
+  - id: LT_DOC_002
+    standardized_name: LT_2025_Curriculum_General.pdf
+    original_name: AR_2025-11-25.pdf
+    transcript_name: LT_2025_Curriculum_General_RAW.md
+    metadata:
+      title_local: "Priešmokyklinio, pradinio, pagrindinio ir vidurinio ugdymo bendrosios programos"
+      title_english: "General Curricula for Pre-primary, Primary, Basic and Secondary Education"
+      publishing_institution: "Ministry of Education, Science and Sport of the Republic of Lithuania"
+      year: 2025
+      document_type: "National Curriculum Framework"
+      primary_objective: "Contains the Life Skills General Programme (Gyvenimo įgūdžių bendroji programa) – Annex 48, which constitutes the principal curriculum framework for health education. The programme includes learning outcomes related to physical and mental health, healthy lifestyles, prevention of harmful behaviours, sexuality and relationship education, safety, first aid, and social-emotional competencies."
+
+  - id: LT_DOC_003
+    standardized_name: LT_2026_Plan_General_Education.pdf
+    original_name: AR_2026-01-07.pdf
+    transcript_name: LT_2026_Plan_General_Education_RAW.md
+    metadata:
+      title_local: "2025–2026 ir 2026–2027 mokslo metų pradinio, pagrindinio ir vidurinio ugdymo programų bendrieji ugdymo planai"
+      title_english: "General Education Plans for Primary, Basic and Secondary Education Programmes for the 2025–2026 and 2026–2027 Academic Years"
+      publishing_institution: "Ministry of Education, Science and Sport of the Republic of Lithuania"
+      year: 2026
+      document_type: "Implementation Guide / Education Plan"
+      primary_objective: "Regulates the implementation of the curricula in schools, including the organisation of teaching and learning and the allocation of instructional time for compulsory subjects, including the Life Skills Programme."
