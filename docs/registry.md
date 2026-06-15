@@ -4,6 +4,14 @@ This registry provides direct access to both the **normalization metadata** and 
 
 ---
 
+??? info "🌍 Quick Navigation: Select a Country"
+    - [🇪🇸 Spain (ES)](#spain-es)
+    - [🇵🇱 Poland (PL)](#poland-pl)
+    - [🇵🇹 Portugal (PT)](#portugal-pt)
+    - [🇱🇻 Latvia (LV)](#latvia-lv)
+
+---
+
 ## 🇪🇸 Spain (ES)
 **Bioregion:** Mediterranean | **System:** LOMLOE 2020 (Decentralized) | **Reviewed by:** TBD
 
