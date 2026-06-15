@@ -1,0 +1,22 @@
+country: Malta
+iso_code: MT
+bioregion: Mediterranean
+educational_system_type: National Curriculum Framework (Centralized)
+
+documents:
+  - id: MT_DOC_001
+    standardized_name: MT_2012_Curriculum_Framework.pdf
+    original_name: MT_NCF_core corpus 2012_MT.pdf
+    transcript_name: MT_2012_Curriculum_Framework_RAW.md
+    metadata:
+      title_local: "A National Curriculum Framework for All 2012"
+      title_english: "A National Curriculum Framework for All 2012"
+      publishing_institution: "Ministry of Education and Employment"
+      year: 2012
+      document_type: "Government Report / Strategic Framework"
+      isbn: "978-99957-0-409-4"
+      url: "http://www.education.gov.mt"
+      primary_objective: ""
+      chicago_17th_format_notes:
+        bibliography_example: "Malta. Ministry of Education and Employment. A National Curriculum Framework for All 2012. Malta: Salesian Press, December 2012. http://www.education.gov.mt."
+        footnote_example: "Malta, Ministry of Education and Employment, A National Curriculum Framework for All 2012 (Malta: Salesian Press, December 2012), http://www.education.gov.mt."
