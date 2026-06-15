@@ -5,7 +5,7 @@ This registry provides direct access to both the **normalization metadata** and 
 ---
 
 ## 🇪🇸 Spain (ES)
-**Bioregion:** Mediterranean | **System:** LOMLOE 2020 (Decentralized)
+**Bioregion:** Mediterranean | **System:** LOMLOE 2020 (Decentralized) | **Reviewed by:** TBD
 
 > Health education in Spain is integrated transversally across the curriculum rather than being treated as a single, isolated subject. Key health concepts are embedded in core subjects such as Physical Education, Biology and Geology, and Education in Civic and Ethical Values. Furthermore, Spain actively champions the "Health Promoting Schools" (Escuelas Promotoras de Salud) model, which seeks to transform the entire school environment through a comprehensive, community-based approach involving students, families, and local health agents. This model covers a wide array of topics, including healthy eating, active mobility, affective-sexual education, emotional well-being, and environmental sustainability, often linking human health to the health of the planet through the "One Health" concept.
 
@@ -19,7 +19,7 @@ This registry provides direct access to both the **normalization metadata** and 
 ---
 
 ## 🇵🇱 Poland (PL)
-**Bioregion:** Central European | **System:** Edukacja Zdrowotna 2025 (Standalone)
+**Bioregion:** Central European | **System:** Edukacja Zdrowotna 2025 (Standalone) | **Reviewed by:** Paweł Krzyworzeka
 
 > In Poland, health education ("edukacja zdrowotna") is being introduced as a new, interdisciplinary, but non-compulsory subject starting in the 2025/2026 academic year for grades IV-VIII in primary schools and grades I-III in secondary schools. The curriculum takes a holistic approach, divided into comprehensive modules that cover physical, mental, social, sexual, and environmental health, as well as digital hygiene, addiction prevention, and navigating the healthcare system. The teaching methodology strongly emphasizes practical, project-based learning and active student engagement, often encouraging collaboration with external experts like doctors, dieticians, and psychologists. Because the subject is optional, parents or adult students have the right to submit a written opt-out before the classes begin.
 
@@ -33,7 +33,7 @@ This registry provides direct access to both the **normalization metadata** and 
 ---
 
 ## 🇵🇹 Portugal (PT)
-**Bioregion:** Atlantic/Mediterranean | **System:** Citizenship Education (ENEC)
+**Bioregion:** Atlantic/Mediterranean | **System:** Citizenship Education (ENEC) | **Reviewed by:** Carla Sousa
 
 > In Portugal, health education is primarily implemented as a transversal and transdisciplinary domain within the "Citizenship and Development" (Cidadania e Desenvolvimento) curriculum component, governed by the National Strategy of Citizenship Education (ENEC, updated in August 2025). Health is a mandatory dimension that schools must address in at least one school year during each major educational cycle (1st cycle, 2nd/3rd cycles, and secondary education). The Portuguese framework covers essential themes such as mental health and violence prevention, food education, physical activity, addictive behaviors, and affective-sexual education. The approach emphasizes active citizenship, the development of socio-emotional skills, systems thinking, and the creation of strong partnerships between schools, families, and local health resources to empower students to make informed, responsible, and safe lifestyle choices.
 >
@@ -56,7 +56,7 @@ This registry provides direct access to both the **normalization metadata** and 
 ---
 
 ## 🇱🇻 Latvia (LV)
-**Bioregion:** Baltic / Boreal | **System:** Skola2030 (Integrated / Standalone Subject)
+**Bioregion:** Baltic / Boreal | **System:** Skola2030 (Integrated / Standalone Subject) | **Reviewed by:** Aija Klavina
 
 > In Latvia, health education is primarily integrated into the "Sports and Health" (Sports un veselība) subject framework, mandated by Cabinet Regulation No. 747. The Skola2030 competence approach emphasizes a holistic understanding of healthy lifestyle choices, physical well-being, and risk recognition. It is supported by cross-sectoral initiatives like the Health Promoting Schools network and the Ministry of Health's prevention programs.
 
