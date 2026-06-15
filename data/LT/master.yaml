@@ -11,31 +11,58 @@ documents:
     metadata:
       title_local: "Lietuvos Respublikos švietimo įstatymas"
       title_english: "Law on Education of the Republic of Lithuania"
-      publishing_institution: "Parliament of the Republic of Lithuania (Lietuvos Respublikos Seimas)"
+      publishing_institution: "Lietuvos Respublikos Aukščiausioji Taryba - Atkuriamasis Seimas"
       year: 2026
-      document_type: "Legislative Act"
+      document_type: "Įstatymas (Ustawa)"
+      document_number: "I-1489"
+      date_of_adoption: "1991-06-25"
+      date_of_effect: "1991-07-01"
+      publication_source: "Lietuvos aidas, 1991-08-06, Nr. 153-0"
+      amendment_version_shown: "Suvestinė redakcija nuo 2026-05-22 iki 2026-08-31"
+      url: "https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/TAIS.1480/asr"
       primary_objective: "The law establishes the legal mandate for schools to safeguard and promote student well-being by developing and implementing dedicated health promotion programs. These programs are defined as comprehensive measures aimed at strengthening students' physical and mental health, cultivating healthy lifestyle values, and fostering a health-enhancing school environment (Art. 26(1))."
+      chicago_17th_format_notes:
+        bibliography_example: "Lithuania. Law on Education of the Republic of Lithuania [Lietuvos Respublikos švietimo įstatymas]. No. I-1489 (June 25, 1991). Lietuvos aidas, no. 153-0 (August 6, 1991). Amended version effective May 22, 2026. https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/TAIS.1480/asr."
+        footnote_example: "Law on Education of the Republic of Lithuania, No. I-1489 (June 25, 1991), amended version effective May 22, 2026, https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/TAIS.1480/asr."
 
   - id: LT_DOC_002
     standardized_name: LT_2025_Curriculum_General.pdf
     original_name: AR_2025-11-25.pdf
     transcript_name: LT_2025_Curriculum_General_RAW.md
     metadata:
-      title_local: "Priešmokyklinio, pradinio, pagrindinio ir vidurinio ugdymo bendrosios programos"
-      title_english: "General Curricula for Pre-primary, Primary, Basic and Secondary Education"
-      publishing_institution: "Ministry of Education, Science and Sport of the Republic of Lithuania"
+      title_local: "Įsakymas dėl Priešmokyklinio, pradinio, pagrindinio ir vidurinio ugdymo bendrųjų programų patvirtinimo"
+      title_english: "Order on the Approval of General Curricula for Pre-primary, Primary, Lower Secondary, and Upper Secondary Education"
+      publishing_institution: "Lietuvos Respublikos švietimo, mokslo ir sporto ministras"
       year: 2025
-      document_type: "National Curriculum Framework"
+      document_type: "Įsakymas (Rozporządzenie/Dekret)"
+      document_number: "V-1269"
+      date_of_adoption: "2022-08-24"
+      date_of_effect: "2022-09-01"
+      publication_source: "TAR, 2022-08-24, Nr. 17452"
+      amendment_version_shown: "Suvestinė redakcija nuo 2025-11-25 iki 2026-08-31"
+      url: "https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/45f3b02523e311edb36fa1cf41a91fd9/asr"
       primary_objective: "Contains the Life Skills General Programme (Gyvenimo įgūdžių bendroji programa) – Annex 48, which constitutes the principal curriculum framework for health education. The programme includes learning outcomes related to physical and mental health, healthy lifestyles, prevention of harmful behaviours, sexuality and relationship education, safety, first aid, and social-emotional competencies."
+      chicago_17th_format_notes:
+        bibliography_example: "Lithuania. Ministry of Education, Science and Sports. Order on the Approval of General Curricula for Pre-primary, Primary, Lower Secondary, and Upper Secondary Education [Įsakymas dėl Priešmokyklinio, pradinio, pagrindinio ir vidurinio ugdymo bendrųjų programų patvirtinimo]. No. V-1269 (August 24, 2022). Teisės aktų registras [TAR], no. 17452 (August 24, 2022). Amended version effective November 25, 2025. https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/45f3b02523e311edb36fa1cf41a91fd9/asr."
+        footnote_example: "Ministry of Education, Science and Sports, Order on the Approval of General Curricula, No. V-1269 (August 24, 2022), amended version effective November 25, 2025, https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/45f3b02523e311edb36fa1cf41a91fd9/asr."
 
   - id: LT_DOC_003
     standardized_name: LT_2026_Plan_General_Education.pdf
     original_name: AR_2026-01-07.pdf
     transcript_name: LT_2026_Plan_General_Education_RAW.md
     metadata:
-      title_local: "2025–2026 ir 2026–2027 mokslo metų pradinio, pagrindinio ir vidurinio ugdymo programų bendrieji ugdymo planai"
-      title_english: "General Education Plans for Primary, Basic and Secondary Education Programmes for the 2025–2026 and 2026–2027 Academic Years"
-      publishing_institution: "Ministry of Education, Science and Sport of the Republic of Lithuania"
+      title_local: "Įsakymas dėl 2025–2026 ir 2026–2027 mokslo metų pradinio, pagrindinio ir vidurinio ugdymo programų bendrųjų ugdymo planų patvirtinimo"
+      title_english: "Order on the Approval of General Education Plans for Primary, Lower Secondary, and Upper Secondary Education Programs for the 2025–2026 and 2026–2027 School Years"
+      publishing_institution: "Lietuvos Respublikos švietimo, mokslo ir sporto ministras"
       year: 2026
-      document_type: "Implementation Guide / Education Plan"
+      document_type: "Įsakymas (Rozporządzenie/Dekret)"
+      document_number: "V-559"
+      date_of_adoption: "2025-05-21"
+      date_of_effect: "2025-05-22"
+      publication_source: "TAR, 2025-05-21, Nr. 8975"
+      amendment_version_shown: "Suvestinė redakcija nuo 2026-01-07"
+      url: "https://data.e-tar.lt/eli/valst/isak/tar/2025/8975/op"
       primary_objective: "Regulates the implementation of the curricula in schools, including the organisation of teaching and learning and the allocation of instructional time for compulsory subjects, including the Life Skills Programme."
+      chicago_17th_format_notes:
+        bibliography_example: "Lithuania. Ministry of Education, Science and Sports. Order on the Approval of General Education Plans for Primary, Lower Secondary, and Upper Secondary Education Programs for the 2025–2026 and 2026–2027 School Years [Įsakymas dėl 2025–2026 ir 2026–2027 mokslo metų pradinio, pagrindinio ir vidurinio ugdymo programų bendrųjų ugdymo planų patvirtinimo]. No. V-559 (May 21, 2025). Teisės aktų registras [TAR], no. 8975 (May 21, 2025). Amended version effective January 7, 2026. https://data.e-tar.lt/eli/valst/isak/tar/2025/8975/op."
+        footnote_example: "Ministry of Education, Science and Sports, Order on the Approval of General Education Plans, No. V-559 (May 21, 2025), amended version effective January 7, 2026, https://data.e-tar.lt/eli/valst/isak/tar/2025/8975/op."
