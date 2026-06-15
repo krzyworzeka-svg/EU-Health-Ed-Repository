@@ -4,14 +4,19 @@ This registry provides direct access to both the **normalization metadata** and 
 
 ---
 
-??? info "🌍 Quick Navigation: Select a Country"
-    - [🇪🇸 Spain (ES)](#spain-es)
-    - [🇵🇱 Poland (PL)](#poland-pl)
-    - [🇵🇹 Portugal (PT)](#portugal-pt)
-    - [🇱🇻 Latvia (LV)](#latvia-lv)
+<details>
+  <summary><b>🌍 Quick Navigation: Select a Country</b></summary>
+  <ul>
+    <li><a href="#country-es">🇪🇸 Spain (ES)</a></li>
+    <li><a href="#country-pl">🇵🇱 Poland (PL)</a></li>
+    <li><a href="#country-pt">🇵🇹 Portugal (PT)</a></li>
+    <li><a href="#country-lv">🇱🇻 Latvia (LV)</a></li>
+  </ul>
+</details>
 
 ---
 
+<a id="country-es"></a>
 ## 🇪🇸 Spain (ES)
 **Bioregion:** Mediterranean | **System:** LOMLOE 2020 (Decentralized) | **Reviewed by:** TBD
 
@@ -26,6 +31,7 @@ This registry provides direct access to both the **normalization metadata** and 
 
 ---
 
+<a id="country-pl"></a>
 ## 🇵🇱 Poland (PL)
 **Bioregion:** Central European | **System:** Edukacja Zdrowotna 2025 (Standalone) | **Reviewed by:** Paweł Krzyworzeka
 
@@ -40,6 +46,7 @@ This registry provides direct access to both the **normalization metadata** and 
 
 ---
 
+<a id="country-pt"></a>
 ## 🇵🇹 Portugal (PT)
 **Bioregion:** Atlantic/Mediterranean | **System:** Citizenship Education (ENEC) | **Reviewed by:** Carla Sousa
 
@@ -63,6 +70,7 @@ This registry provides direct access to both the **normalization metadata** and 
 
 ---
 
+<a id="country-lv"></a>
 ## 🇱🇻 Latvia (LV)
 **Bioregion:** Baltic / Boreal | **System:** Skola2030 (Integrated / Standalone Subject) | **Reviewed by:** Aija Klavina
 
