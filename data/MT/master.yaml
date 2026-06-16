@@ -197,3 +197,18 @@ documents:
       chicago_17th_format_notes:
         bibliography_example: "Malta. Ministry for Education, Sport, Youth, Research and Innovation. Personal, Social and Career Development (PSCD) Year 11: Syllabus and Broad Learning Outcomes. National Curriculum Framework Portal, 2019. https://curriculum.gov.mt/syllabi-yr9-to-yr11-delh/#PSCD."
         footnote_example: "Malta, Ministry for Education, Sport, Youth, Research and Innovation, Personal, Social and Career Development (PSCD) Year 11: Syllabus and Broad Learning Outcomes (National Curriculum Framework Portal, 2019), https://curriculum.gov.mt/syllabi-yr9-to-yr11-delh/#PSCD."
+
+  - id: MT_DOC_013
+    standardized_name: MT_2026_PE_Learning_Outcomes.pdf
+    original_name: PE_syllabus_Learning_Outcomes_latest.pdf
+    transcript_name: MT_2026_PE_Learning_Outcomes_RAW.md
+    metadata:
+      title_local: "Physical Education: Learning Outcomes – Primary, Middle and Secondary Years"
+      title_english: "Physical Education: Learning Outcomes – Primary, Middle and Secondary Years"
+      publishing_institution: "Ministry for Education, Sport, Youth, Research and Innovation"
+      year: "2026"
+      document_type: "Government Document / Educational Syllabus"
+      url: "https://curriculum.gov.mt/syllabi-and-learning-outcomes-years-1-to-6-2/#PE"
+      chicago_17th_format_notes:
+        bibliography_example: "Malta. Ministry for Education, Sport, Youth, Research and Innovation. Physical Education: Learning Outcomes – Primary, Middle and Secondary Years. National Curriculum Framework Portal, 2026. https://curriculum.gov.mt/syllabi-and-learning-outcomes-years-1-to-6-2/#PE."
+        footnote_example: "Malta, Ministry for Education, Sport, Youth, Research and Innovation, Physical Education: Learning Outcomes – Primary, Middle and Secondary Years (National Curriculum Framework Portal, 2026), https://curriculum.gov.mt/syllabi-and-learning-outcomes-years-1-to-6-2/#PE."
