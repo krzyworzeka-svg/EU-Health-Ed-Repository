@@ -227,3 +227,48 @@ documents:
       chicago_17th_format_notes:
         bibliography_example: "Malta. Department for Curriculum, Lifelong Learning and Employability. Home Economics Syllabus: Year 7 & Year 8. National Curriculum Framework Portal, 2025. https://curriculum.gov.mt/years-7-and-8-learning-outcomes-programmes-and-syllabi-2/#HE."
         footnote_example: "Malta, Department for Curriculum, Lifelong Learning and Employability, Home Economics Syllabus: Year 7 & Year 8 (National Curriculum Framework Portal, 2025), https://curriculum.gov.mt/years-7-and-8-learning-outcomes-programmes-and-syllabi-2/#HE."
+
+  - id: MT_DOC_015
+    standardized_name: MT_ND_HEcon_Syllabus_Year_9.pdf
+    original_name: YEAR-9-Home-Economics-Syllabus.pdf
+    transcript_name: MT_ND_HEcon_Syllabus_Year_9_RAW.md
+    metadata:
+      title_local: "Year 9 Home Economics Syllabus"
+      title_english: "Year 9 Home Economics Syllabus"
+      publishing_institution: "Department of Curriculum, Lifelong Learning and Employability"
+      year: "n.d."
+      document_type: "Government Document / Educational Syllabus"
+      url: "https://curriculum.gov.mt/syllabi-yr9-to-yr11-other-subjects/#HE"
+      chicago_17th_format_notes:
+        bibliography_example: "Malta. Department of Curriculum, Lifelong Learning and Employability. Year 9 Home Economics Syllabus. National Curriculum Framework Portal. Accessed June 16, 2026. https://curriculum.gov.mt/syllabi-yr9-to-yr11-other-subjects/#HE."
+        footnote_example: "Malta, Department of Curriculum, Lifelong Learning and Employability, Year 9 Home Economics Syllabus (National Curriculum Framework Portal, accessed June 16, 2026), https://curriculum.gov.mt/syllabi-yr9-to-yr11-other-subjects/#HE."
+
+  - id: MT_DOC_016
+    standardized_name: MT_ND_HEcon_Syllabus_Year_10.pdf
+    original_name: YEAR-10-Home-Economics-Syllabus.pdf
+    transcript_name: MT_ND_HEcon_Syllabus_Year_10_RAW.md
+    metadata:
+      title_local: "Year 10 Home Economics Syllabus"
+      title_english: "Year 10 Home Economics Syllabus"
+      publishing_institution: "Department of Curriculum, Lifelong Learning and Employability"
+      year: "n.d."
+      document_type: "Government Document / Educational Syllabus"
+      url: "https://curriculum.gov.mt/syllabi-yr9-to-yr11-other-subjects/#HE"
+      chicago_17th_format_notes:
+        bibliography_example: "Malta. Department of Curriculum, Lifelong Learning and Employability. Year 10 Home Economics Syllabus. National Curriculum Framework Portal. Accessed June 16, 2026. https://curriculum.gov.mt/syllabi-yr9-to-yr11-other-subjects/#HE."
+        footnote_example: "Malta, Department of Curriculum, Lifelong Learning and Employability, Year 10 Home Economics Syllabus (National Curriculum Framework Portal, accessed June 16, 2026), https://curriculum.gov.mt/syllabi-yr9-to-yr11-other-subjects/#HE."
+
+  - id: MT_DOC_017
+    standardized_name: MT_ND_HEcon_Syllabus_Year_11.pdf
+    original_name: syllabus_Home_Econ_yr11_updated_sept_2024.pdf
+    transcript_name: MT_ND_HEcon_Syllabus_Year_11_RAW.md
+    metadata:
+      title_local: "Year 11 Home Economics Syllabus"
+      title_english: "Year 11 Home Economics Syllabus"
+      publishing_institution: "Department of Curriculum, Lifelong Learning and Employability"
+      year: "n.d."
+      document_type: "Government Document / Educational Syllabus"
+      url: "https://curriculum.gov.mt/syllabi-yr9-to-yr11-other-subjects/#HE"
+      chicago_17th_format_notes:
+        bibliography_example: "Malta. Department of Curriculum, Lifelong Learning and Employability. Year 11 Home Economics Syllabus. National Curriculum Framework Portal. Accessed June 16, 2026. https://curriculum.gov.mt/syllabi-yr9-to-yr11-other-subjects/#HE."
+        footnote_example: "Malta, Department of Curriculum, Lifelong Learning and Employability, Year 11 Home Economics Syllabus (National Curriculum Framework Portal, accessed June 16, 2026), https://curriculum.gov.mt/syllabi-yr9-to-yr11-other-subjects/#HE."
