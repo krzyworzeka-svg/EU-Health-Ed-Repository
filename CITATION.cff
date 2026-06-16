@@ -33,5 +33,11 @@ authors:
     roles:
       - "data curation"
       - "validation"
+  - family-names: "Spiteri"
+    given-names: "Jane"
+    affiliation: "University of Malta"
+    roles:
+      - "data curation"
+      - "validation"
 repository-code: "https://github.com/krzyworzeka-svg/EU-Health-Ed-Repository"
 license: CC-BY-4.0

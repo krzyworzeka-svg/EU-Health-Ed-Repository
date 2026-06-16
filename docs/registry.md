@@ -12,6 +12,7 @@ This registry provides direct access to both the **normalization metadata** and 
     <li><a href="#country-pt">🇵🇹 Portugal (PT)</a></li>
     <li><a href="#country-lv">🇱🇻 Latvia (LV)</a></li>
     <li><a href="#country-lt">🇱🇹 Lithuania (LT)</a></li>
+    <li><a href="#country-mt">🇲🇹 Malta (MT)</a></li>
   </ul>
 </details>
 
@@ -103,3 +104,19 @@ This registry provides direct access to both the **normalization metadata** and 
 ---
 ### Usage Note
 The "Full Bibliographic Citation (Chicago 17th)" column gives standard references mapped in the `master.yaml` for each document. Click **Download** for the original PDF or **View** for the full structural metadata.
+
+---
+
+<a id="country-mt"></a>
+## 🇲🇹 Malta (MT)
+**Bioregion:** Mediterranean | **System:** National Curriculum Framework (Centralized) | **Reviewed by:** Jane Spiteri
+
+> In Malta, health education is highly structured and primarily delivered through two core subjects: Personal, Social and Career Development (PSCD) and Home Economics (HEcon). Both subjects are mandated by the 2012 National Curriculum Framework. The curriculum operationalizes Planetary Health by heavily integrating human dietary needs with ecological metrics such as carbon footprints, food miles, and organic agriculture. Furthermore, the PSCD framework systematically embeds the UN Sustainable Development Goals, teaching students to connect personal well-being directly with global ecological sustainability. The overarching educational architecture explicitly mandates viewing human health, safety, and productivity as fundamentally dependent on a safer and just environment.
+
+| Document Type | Short Title | Level | Full Bibliographic Citation (Chicago 17th) | Download (PDF) | Registry (YAML) |
+| :--- | :--- | :--- | :--- | :--- | :---: |
+| **Framework** | National Curriculum Framework 2012 | General Framework | Malta. Ministry of Education and Employment. *A National Curriculum Framework for All 2012*. Malta: Salesian Press, December 2012. | [Download](https://github.com/krzyworzeka-svg/EU-Health-Ed-Repository/raw/main/data/MT/sources/MT_2012_Curriculum_Framework.pdf) | [View](https://raw.githubusercontent.com/krzyworzeka-svg/EU-Health-Ed-Repository/main/data/MT/master.yaml) |
+| **Syllabus** | PSCD Learning Outcomes (Primary) | Primary (Years 1-6) | Malta. Ministry for Education, Sport, Youth, Research and Innovation. *Personal, Social and Career Development (PSCD) Syllabi*. | [Download](https://github.com/krzyworzeka-svg/EU-Health-Ed-Repository/tree/main/data/MT/sources) | [View](https://raw.githubusercontent.com/krzyworzeka-svg/EU-Health-Ed-Repository/main/data/MT/master.yaml) |
+| **Syllabus** | PSCD Learning Outcomes (Secondary) | Secondary (Years 7-11) | Malta. Ministry for Education, Sport, Youth, Research and Innovation. *Personal, Social and Career Development (PSCD) Syllabi*. | [Download](https://github.com/krzyworzeka-svg/EU-Health-Ed-Repository/tree/main/data/MT/sources) | [View](https://raw.githubusercontent.com/krzyworzeka-svg/EU-Health-Ed-Repository/main/data/MT/master.yaml) |
+| **Syllabus** | Home Economics (Years 7-11) | Secondary (Years 7-11) | Malta. Department of Curriculum, Lifelong Learning and Employability. *Home Economics Syllabi*. | [Download](https://github.com/krzyworzeka-svg/EU-Health-Ed-Repository/tree/main/data/MT/sources) | [View](https://raw.githubusercontent.com/krzyworzeka-svg/EU-Health-Ed-Repository/main/data/MT/master.yaml) |
+| **Syllabus** | Physical Education | Primary & Secondary | Malta. Ministry for Education, Sport, Youth, Research and Innovation. *Physical Education: Learning Outcomes*. | [Download](https://github.com/krzyworzeka-svg/EU-Health-Ed-Repository/raw/main/data/MT/sources/MT_2026_PE_Learning_Outcomes.pdf) | [View](https://raw.githubusercontent.com/krzyworzeka-svg/EU-Health-Ed-Repository/main/data/MT/master.yaml) |
