@@ -20,7 +20,7 @@ This registry provides direct access to both the **normalization metadata** and 
 
 <a id="country-es"></a>
 ## 🇪🇸 Spain (ES)
-**Bioregion:** Mediterranean | **System:** LOMLOE 2020 (Decentralized) | **Reviewed by:** TBD
+**Bioregion:** Mediterranean | **System:** LOMLOE 2020 (Decentralized) | **Curated by:** TBD
 
 > Health education in Spain is integrated transversally across the curriculum rather than being treated as a single, isolated subject. Key health concepts are embedded in core subjects such as Physical Education, Biology and Geology, and Education in Civic and Ethical Values. Furthermore, Spain actively champions the "Health Promoting Schools" (Escuelas Promotoras de Salud) model, which seeks to transform the entire school environment through a comprehensive, community-based approach involving students, families, and local health agents. This model covers a wide array of topics, including healthy eating, active mobility, affective-sexual education, emotional well-being, and environmental sustainability, often linking human health to the health of the planet through the "One Health" concept.
 
@@ -35,7 +35,7 @@ This registry provides direct access to both the **normalization metadata** and 
 
 <a id="country-pl"></a>
 ## 🇵🇱 Poland (PL)
-**Bioregion:** Central European | **System:** Edukacja Zdrowotna 2025 (Standalone) | **Reviewed by:** Paweł Krzyworzeka
+**Bioregion:** Central European | **System:** Edukacja Zdrowotna 2025 (Standalone) | **Curated by:** Paweł Krzyworzeka
 
 > In Poland, health education ("edukacja zdrowotna") is being introduced as a new, interdisciplinary, but non-compulsory subject starting in the 2025/2026 academic year for grades IV-VIII in primary schools and grades I-III in secondary schools. The curriculum takes a holistic approach, divided into comprehensive modules that cover physical, mental, social, sexual, and environmental health, as well as digital hygiene, addiction prevention, and navigating the healthcare system. The teaching methodology strongly emphasizes practical, project-based learning and active student engagement, often encouraging collaboration with external experts like doctors, dieticians, and psychologists. Because the subject is optional, parents or adult students have the right to submit a written opt-out before the classes begin.
 
@@ -50,7 +50,7 @@ This registry provides direct access to both the **normalization metadata** and 
 
 <a id="country-pt"></a>
 ## 🇵🇹 Portugal (PT)
-**Bioregion:** Atlantic/Mediterranean | **System:** Citizenship Education (ENEC) | **Reviewed by:** Carla Sousa
+**Bioregion:** Atlantic/Mediterranean | **System:** Citizenship Education (ENEC) | **Curated by:** Carla Sousa
 
 > In Portugal, health education is primarily implemented as a transversal and transdisciplinary domain within the "Citizenship and Development" (Cidadania e Desenvolvimento) curriculum component, governed by the National Strategy of Citizenship Education (ENEC, updated in August 2025). Health is a mandatory dimension that schools must address in at least one school year during each major educational cycle (1st cycle, 2nd/3rd cycles, and secondary education). The Portuguese framework covers essential themes such as mental health and violence prevention, food education, physical activity, addictive behaviors, and affective-sexual education. The approach emphasizes active citizenship, the development of socio-emotional skills, systems thinking, and the creation of strong partnerships between schools, families, and local health resources to empower students to make informed, responsible, and safe lifestyle choices.
 >
@@ -74,7 +74,7 @@ This registry provides direct access to both the **normalization metadata** and 
 
 <a id="country-lv"></a>
 ## 🇱🇻 Latvia (LV)
-**Bioregion:** Baltic / Boreal | **System:** Skola2030 (Integrated / Standalone Subject) | **Reviewed by:** Aija Klavina
+**Bioregion:** Baltic / Boreal | **System:** Skola2030 (Integrated / Standalone Subject) | **Curated by:** Aija Klavina
 
 > In Latvia, health education is primarily integrated into the "Sports and Health" (Sports un veselība) subject framework, mandated by Cabinet Regulation No. 747. The Skola2030 competence approach emphasizes a holistic understanding of healthy lifestyle choices, physical well-being, and risk recognition. It is supported by cross-sectoral initiatives like the Health Promoting Schools network and the Ministry of Health's prevention programs.
 
@@ -91,7 +91,7 @@ This registry provides direct access to both the **normalization metadata** and 
 
 <a id="country-lt"></a>
 ## 🇱🇹 Lithuania (LT)
-**Bioregion:** Baltic / Boreal | **System:** General Programmes (Centralized Curriculum) | **Reviewed by:** Aušra Rutkienė & Andrius Puksas
+**Bioregion:** Baltic / Boreal | **System:** General Programmes (Centralized Curriculum) | **Curated by:** Aušra Rutkienė & Andrius Puksas
 
 > In Lithuania, health education is profoundly integrated across multiple dimensions of the educational architecture. The Law on Education mandates health care within schools directly linking to municipal public health systems. The primary curricular vehicle is the "Life Skills General Programme" (Gyvenimo įgūdžių bendroji programa), which serves as a dedicated pillar for equipping students with physical, mental, and social-emotional competencies. Furthermore, the system permits highly specialized pedagogical frameworks, such as the "Concept of Ecology and Environmental Technologies Education", which acts as an incubator for advanced, cross-disciplinary Planetary Health teaching.
 
@@ -109,7 +109,7 @@ The "Full Bibliographic Citation (Chicago 17th)" column gives standard reference
 
 <a id="country-mt"></a>
 ## 🇲🇹 Malta (MT)
-**Bioregion:** Mediterranean | **System:** National Curriculum Framework (Centralized) | **Reviewed by:** Jane Spiteri
+**Bioregion:** Mediterranean | **System:** National Curriculum Framework (Centralized) | **Curated by:** Jane Spiteri
 
 > In Malta, health education is highly structured and primarily delivered through two core subjects: Personal, Social and Career Development (PSCD) and Home Economics (HEcon). Both subjects are mandated by the 2012 National Curriculum Framework. The curriculum operationalizes Planetary Health by heavily integrating human dietary needs with ecological metrics such as carbon footprints, food miles, and organic agriculture. Furthermore, the PSCD framework systematically embeds the UN Sustainable Development Goals, teaching students to connect personal well-being directly with global ecological sustainability. The overarching educational architecture explicitly mandates viewing human health, safety, and productivity as fundamentally dependent on a safer and just environment.
 
