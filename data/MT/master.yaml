@@ -212,3 +212,18 @@ documents:
       chicago_17th_format_notes:
         bibliography_example: "Malta. Ministry for Education, Sport, Youth, Research and Innovation. Physical Education: Learning Outcomes – Primary, Middle and Secondary Years. National Curriculum Framework Portal, 2026. https://curriculum.gov.mt/syllabi-and-learning-outcomes-years-1-to-6-2/#PE."
         footnote_example: "Malta, Ministry for Education, Sport, Youth, Research and Innovation, Physical Education: Learning Outcomes – Primary, Middle and Secondary Years (National Curriculum Framework Portal, 2026), https://curriculum.gov.mt/syllabi-and-learning-outcomes-years-1-to-6-2/#PE."
+
+  - id: MT_DOC_014
+    standardized_name: MT_2025_HE_Syllabus_Year_7_8.pdf
+    original_name: syllabus_home_economics_yr07_yr08_2025_2026.pdf
+    transcript_name: MT_2025_HE_Syllabus_Year_7_8_RAW.md
+    metadata:
+      title_local: "Home Economics Syllabus: Year 7 & Year 8"
+      title_english: "Home Economics Syllabus: Year 7 & Year 8"
+      publishing_institution: "Department for Curriculum, Lifelong Learning and Employability"
+      year: "2025"
+      document_type: "Government Document / Educational Syllabus"
+      url: "https://curriculum.gov.mt/years-7-and-8-learning-outcomes-programmes-and-syllabi-2/#HE"
+      chicago_17th_format_notes:
+        bibliography_example: "Malta. Department for Curriculum, Lifelong Learning and Employability. Home Economics Syllabus: Year 7 & Year 8. National Curriculum Framework Portal, 2025. https://curriculum.gov.mt/years-7-and-8-learning-outcomes-programmes-and-syllabi-2/#HE."
+        footnote_example: "Malta, Department for Curriculum, Lifelong Learning and Employability, Home Economics Syllabus: Year 7 & Year 8 (National Curriculum Framework Portal, 2025), https://curriculum.gov.mt/years-7-and-8-learning-outcomes-programmes-and-syllabi-2/#HE."
