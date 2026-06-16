@@ -110,3 +110,33 @@ documents:
       chicago_17th_format_notes:
         bibliography_example: "Malta. Ministry for Education, Sport, Youth, Research and Innovation. Personal, Social and Career Development (PSCD) Year 6: Learning Outcomes & Broad Learning Outcomes. National Curriculum Framework Portal. Accessed June 16, 2026. https://curriculum.gov.mt/syllabi-and-learning-outcomes-years-1-to-6-2/#PSCD."
         footnote_example: "Malta, Ministry for Education, Sport, Youth, Research and Innovation, Personal, Social and Career Development (PSCD) Year 6: Learning Outcomes & Broad Learning Outcomes, National Curriculum Framework Portal, accessed June 16, 2026, https://curriculum.gov.mt/syllabi-and-learning-outcomes-years-1-to-6-2/#PSCD."
+
+  - id: MT_DOC_008
+    standardized_name: MT_2019_PSCD_Year_7.pdf
+    original_name: PSCD_Yr07_Broad_Learning_Outcomes.pdf
+    transcript_name: MT_2019_PSCD_Year_7_RAW.md
+    metadata:
+      title_local: "Personal, Social and Career Development (PSCD) Year 7: Syllabus and Broad Learning Outcomes"
+      title_english: "Personal, Social and Career Development (PSCD) Year 7: Syllabus and Broad Learning Outcomes"
+      publishing_institution: "Ministry for Education, Sport, Youth, Research and Innovation"
+      year: "2019"
+      document_type: "Government Document / Educational Syllabus"
+      url: "https://curriculum.gov.mt/years-7-and-8-learning-outcomes-programmes-and-syllabi-2/#PSCD"
+      chicago_17th_format_notes:
+        bibliography_example: "Malta. Ministry for Education, Sport, Youth, Research and Innovation. Personal, Social and Career Development (PSCD) Year 7: Syllabus and Broad Learning Outcomes. National Curriculum Framework Portal, 2019. https://curriculum.gov.mt/years-7-and-8-learning-outcomes-programmes-and-syllabi-2/#PSCD."
+        footnote_example: "Malta, Ministry for Education, Sport, Youth, Research and Innovation, Personal, Social and Career Development (PSCD) Year 7: Syllabus and Broad Learning Outcomes (National Curriculum Framework Portal, 2019), https://curriculum.gov.mt/years-7-and-8-learning-outcomes-programmes-and-syllabi-2/#PSCD."
+
+  - id: MT_DOC_009
+    standardized_name: MT_2019_PSCD_Year_8.pdf
+    original_name: PSCD_Yr08_Broad_Learning_Outcomes_Sept_2019.pdf
+    transcript_name: MT_2019_PSCD_Year_8_RAW.md
+    metadata:
+      title_local: "Personal, Social and Career Development (PSCD) Year 8: Syllabus and Broad Learning Outcomes"
+      title_english: "Personal, Social and Career Development (PSCD) Year 8: Syllabus and Broad Learning Outcomes"
+      publishing_institution: "Ministry for Education, Sport, Youth, Research and Innovation"
+      year: "2019"
+      document_type: "Government Document / Educational Syllabus"
+      url: "https://curriculum.gov.mt/years-7-and-8-learning-outcomes-programmes-and-syllabi-2/#PSCD"
+      chicago_17th_format_notes:
+        bibliography_example: "Malta. Ministry for Education, Sport, Youth, Research and Innovation. Personal, Social and Career Development (PSCD) Year 8: Syllabus and Broad Learning Outcomes. National Curriculum Framework Portal, September 2019. https://curriculum.gov.mt/years-7-and-8-learning-outcomes-programmes-and-syllabi-2/#PSCD."
+        footnote_example: "Malta, Ministry for Education, Sport, Youth, Research and Innovation, Personal, Social and Career Development (PSCD) Year 8: Syllabus and Broad Learning Outcomes (National Curriculum Framework Portal, September 2019), https://curriculum.gov.mt/years-7-and-8-learning-outcomes-programmes-and-syllabi-2/#PSCD."
