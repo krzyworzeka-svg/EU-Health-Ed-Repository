@@ -50,7 +50,7 @@ This registry provides direct access to both the **normalization metadata** and 
 
 <a id="country-pt"></a>
 ## 🇵🇹 Portugal (PT)
-**Bioregion:** Atlantic/Mediterranean | **System:** Citizenship Education (ENEC) | **Curated by:** Carla Sousa
+**Bioregion:** Atlantic/Mediterranean | **System:** Citizenship Education (ENEC) | **Curated by:** Carla Sousa & Catarina Lavrador
 
 > In Portugal, health education is primarily implemented as a transversal and transdisciplinary domain within the "Citizenship and Development" (Cidadania e Desenvolvimento) curriculum component, governed by the National Strategy of Citizenship Education (ENEC, updated in August 2025). Health is a mandatory dimension that schools must address in at least one school year during each major educational cycle (1st cycle, 2nd/3rd cycles, and secondary education). The Portuguese framework covers essential themes such as mental health and violence prevention, food education, physical activity, addictive behaviors, and affective-sexual education. The approach emphasizes active citizenship, the development of socio-emotional skills, systems thinking, and the creation of strong partnerships between schools, families, and local health resources to empower students to make informed, responsible, and safe lifestyle choices.
 >

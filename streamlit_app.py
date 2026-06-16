@@ -92,7 +92,7 @@ st.sidebar.markdown("""
 - **Latvia (LV):** Aija Klavina, Riga Stradins University
 - **Lithuania (LT):** Aušra Rutkienė & Andrius Puksas, Vytautas Magnus University
 - **Poland (PL):** Paweł Krzyworzeka, Kozminski University
-- **Portugal (PT):** Carla Sousa
+- **Portugal (PT):** Carla Sousa & Catarina Lavrador, University of Évora
 - **Malta (MT):** Jane Spiteri, University of Malta
 """)
 

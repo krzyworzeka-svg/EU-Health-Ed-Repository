@@ -21,6 +21,12 @@ authors:
     roles:
       - "data curation"
       - "validation"
+  - family-names: "Lavrador"
+    given-names: "Catarina"
+    affiliation: "University of Évora"
+    roles:
+      - "data curation"
+      - "validation"
   - family-names: "Rutkienė"
     given-names: "Aušra"
     affiliation: "Vytautas Magnus University, Lithuania"
