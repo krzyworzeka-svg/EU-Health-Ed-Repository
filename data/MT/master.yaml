@@ -140,3 +140,60 @@ documents:
       chicago_17th_format_notes:
         bibliography_example: "Malta. Ministry for Education, Sport, Youth, Research and Innovation. Personal, Social and Career Development (PSCD) Year 8: Syllabus and Broad Learning Outcomes. National Curriculum Framework Portal, September 2019. https://curriculum.gov.mt/years-7-and-8-learning-outcomes-programmes-and-syllabi-2/#PSCD."
         footnote_example: "Malta, Ministry for Education, Sport, Youth, Research and Innovation, Personal, Social and Career Development (PSCD) Year 8: Syllabus and Broad Learning Outcomes (National Curriculum Framework Portal, September 2019), https://curriculum.gov.mt/years-7-and-8-learning-outcomes-programmes-and-syllabi-2/#PSCD."
+
+  - id: MT_DOC_010
+    standardized_name: 
+      - MT_2019_PSCD_Year_9_LOs.pdf
+      - MT_2019_PSCD_Year_9_BLOs.pdf
+    original_name: 
+      - PSCD_yr09_LOs.pdf
+      - PSCD_yr09_BLOs.pdf
+    transcript_name: MT_2019_PSCD_Year_9_RAW.md
+    metadata:
+      title_local: "Personal, Social and Career Development (PSCD) Year 9: Syllabus and Broad Learning Outcomes"
+      title_english: "Personal, Social and Career Development (PSCD) Year 9: Syllabus and Broad Learning Outcomes"
+      publishing_institution: "Ministry for Education, Sport, Youth, Research and Innovation"
+      year: "2019"
+      document_type: "Government Document / Educational Syllabus"
+      url: "https://curriculum.gov.mt/syllabi-yr9-to-yr11-delh/#PSCD"
+      chicago_17th_format_notes:
+        bibliography_example: "Malta. Ministry for Education, Sport, Youth, Research and Innovation. Personal, Social and Career Development (PSCD) Year 9: Syllabus and Broad Learning Outcomes. National Curriculum Framework Portal, 2019. https://curriculum.gov.mt/syllabi-yr9-to-yr11-delh/#PSCD."
+        footnote_example: "Malta, Ministry for Education, Sport, Youth, Research and Innovation, Personal, Social and Career Development (PSCD) Year 9: Syllabus and Broad Learning Outcomes (National Curriculum Framework Portal, 2019), https://curriculum.gov.mt/syllabi-yr9-to-yr11-delh/#PSCD."
+
+  - id: MT_DOC_011
+    standardized_name: 
+      - MT_2019_PSCD_Year_10_LOs.pdf
+      - MT_2019_PSCD_Year_10_BLOs.pdf
+    original_name: 
+      - PSCD_yr10_LOs.pdf
+      - PSCD_yr10_BLOs.pdf
+    transcript_name: MT_2019_PSCD_Year_10_RAW.md
+    metadata:
+      title_local: "Personal, Social and Career Development (PSCD) Year 10: Syllabus and Broad Learning Outcomes"
+      title_english: "Personal, Social and Career Development (PSCD) Year 10: Syllabus and Broad Learning Outcomes"
+      publishing_institution: "Ministry for Education, Sport, Youth, Research and Innovation"
+      year: "2019"
+      document_type: "Government Document / Educational Syllabus"
+      url: "https://curriculum.gov.mt/syllabi-yr9-to-yr11-delh/#PSCD"
+      chicago_17th_format_notes:
+        bibliography_example: "Malta. Ministry for Education, Sport, Youth, Research and Innovation. Personal, Social and Career Development (PSCD) Year 10: Syllabus and Broad Learning Outcomes. National Curriculum Framework Portal, 2019. https://curriculum.gov.mt/syllabi-yr9-to-yr11-delh/#PSCD."
+        footnote_example: "Malta, Ministry for Education, Sport, Youth, Research and Innovation, Personal, Social and Career Development (PSCD) Year 10: Syllabus and Broad Learning Outcomes (National Curriculum Framework Portal, 2019), https://curriculum.gov.mt/syllabi-yr9-to-yr11-delh/#PSCD."
+
+  - id: MT_DOC_012
+    standardized_name: 
+      - MT_2019_PSCD_Year_11_LOs.pdf
+      - MT_2019_PSCD_Year_11_BLOs.pdf
+    original_name: 
+      - PSCD_yr11_LOs_.pdf
+      - PSCD_yr11_BLOs.pdf
+    transcript_name: MT_2019_PSCD_Year_11_RAW.md
+    metadata:
+      title_local: "Personal, Social and Career Development (PSCD) Year 11: Syllabus and Broad Learning Outcomes"
+      title_english: "Personal, Social and Career Development (PSCD) Year 11: Syllabus and Broad Learning Outcomes"
+      publishing_institution: "Ministry for Education, Sport, Youth, Research and Innovation"
+      year: "2019"
+      document_type: "Government Document / Educational Syllabus"
+      url: "https://curriculum.gov.mt/syllabi-yr9-to-yr11-delh/#PSCD"
+      chicago_17th_format_notes:
+        bibliography_example: "Malta. Ministry for Education, Sport, Youth, Research and Innovation. Personal, Social and Career Development (PSCD) Year 11: Syllabus and Broad Learning Outcomes. National Curriculum Framework Portal, 2019. https://curriculum.gov.mt/syllabi-yr9-to-yr11-delh/#PSCD."
+        footnote_example: "Malta, Ministry for Education, Sport, Youth, Research and Innovation, Personal, Social and Career Development (PSCD) Year 11: Syllabus and Broad Learning Outcomes (National Curriculum Framework Portal, 2019), https://curriculum.gov.mt/syllabi-yr9-to-yr11-delh/#PSCD."
